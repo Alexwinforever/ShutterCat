@@ -1,0 +1,2266 @@
+{
+    "我的账号": ["我的帳號", "My account", "アカウント", "내 계정", "Mi cuenta"],
+    "邮箱已验证": ["電郵已驗證", "Email verified", "メール確認済み", "이메일 인증됨", "Correo verificado"],
+    "退出登录": ["登出", "Sign out", "ログアウト", "로그아웃", "Cerrar sesión"],
+    "正在退出…": ["正在登出…", "Signing out…", "ログアウト中…", "로그아웃 중…", "Cerrando sesión…"],
+    "删除账号和全部数据": ["刪除帳號和全部資料", "Delete account and all data", "アカウントと全データを削除", "계정 및 모든 데이터 삭제", "Eliminar la cuenta y todos los datos"],
+    "永久删除账号": ["永久刪除帳號", "Permanently delete account", "アカウントを完全に削除", "계정 영구 삭제", "Eliminar la cuenta permanentemente"],
+    "删除后，任务、猫猫、喵币和账号资料将永久删除。此操作不会取消 Google Play 订阅。": ["刪除後，任務、貓貓、喵幣和帳號資料將永久刪除。此操作不會取消 Google Play 訂閱。", "Your tasks, cats, coins, and account data will be permanently deleted. This does not cancel your Google Play subscription.", "タスク、猫、コイン、アカウントデータは完全に削除されます。Google Play の定期購入は解約されません。", "할 일, 고양이, 코인 및 계정 데이터가 영구 삭제됩니다. Google Play 구독은 취소되지 않습니다.", "Tus tareas, gatos, monedas y datos de cuenta se eliminarán permanentemente. Esto no cancela tu suscripción de Google Play."],
+    "当前密码": ["目前密碼", "Current password", "現在のパスワード", "현재 비밀번호", "Contraseña actual"],
+    "我明白此操作不可撤销，并会在 Google Play 中单独管理或取消订阅。": ["我明白此操作無法復原，並會在 Google Play 中另行管理或取消訂閱。", "I understand this cannot be undone and that I must manage or cancel my subscription separately in Google Play.", "この操作は元に戻せず、定期購入は Google Play で別途管理または解約する必要があることを理解しました。", "이 작업은 되돌릴 수 없으며 Google Play에서 구독을 별도로 관리하거나 취소해야 함을 이해합니다.", "Entiendo que esto no se puede deshacer y que debo gestionar o cancelar la suscripción por separado en Google Play."],
+    "正在删除…": ["正在刪除…", "Deleting…", "削除中…", "삭제 중…", "Eliminando…"],
+    "设置":  [
+               "設定",
+               "Settings",
+               "設定",
+               "설정",
+               "Ajustes"
+           ],
+    "语言":  [
+               "語言",
+               "Language",
+               "言語",
+               "언어",
+               "Idioma"
+           ],
+    "选择界面语言，立即生效并自动保存。":  [
+                              "選擇介面語言，立即生效並自動儲存。",
+                              "Choose a language. Changes apply immediately and are saved automatically.",
+                              "言語はすぐに反映され、自動保存されます。",
+                              "언어는 즉시 적용되고 자동으로 저장됩니다.",
+                              "El idioma se aplica al instante y se guarda automáticamente."
+                          ],
+    "跟随系统":  [
+                 "跟隨系統",
+                 "Follow system",
+                 "システムに合わせる",
+                 "시스템 설정 따르기",
+                 "Usar idioma del sistema"
+             ],
+    "已选择":  [
+                "已選擇",
+                "Selected",
+                "選択中",
+                "선택됨",
+                "Seleccionado"
+            ],
+    "等待开始":  [
+                 "等待開始",
+                 "Scheduled",
+                 "開始待ち",
+                 "시작 대기",
+                 "Programada"
+             ],
+    "该开始啦":  [
+                 "該開始啦",
+                 "Time to start",
+                 "始める時間",
+                 "시작할 시간",
+                 "Hora de empezar"
+             ],
+    "已开始":  [
+                "已開始",
+                "Started",
+                "開始済み",
+                "시작됨",
+                "Iniciada"
+            ],
+    "已放下":  [
+                "已放下",
+                "Let go",
+                "見送り",
+                "내려놓음",
+                "Dejada por ahora"
+            ],
+    "ShutterCat":  [
+               "ShutterCat",
+               "ShutterCat",
+               "ShutterCat",
+               "ShutterCat",
+               "ShutterCat"
+           ],
+    "给开始一点陪伴":  [
+                    "給開始一點陪伴",
+                    "A friend for your first step",
+                    "はじめの一歩に、仲間を",
+                    "첫걸음을 함께해요",
+                    "Compañía para tu primer paso"
+                ],
+    "主要导航":  [
+                 "主要導覽",
+                 "Main navigation",
+                 "メインナビゲーション",
+                 "주 메뉴",
+                 "Navegación principal"
+             ],
+    "我的一周":  [
+                 "我的一週",
+                 "My week",
+                 "今週の予定",
+                 "나의 한 주",
+                 "Mi semana"
+             ],
+    "常做的事":  [
+                 "常做的事",
+                 "Routines",
+                 "いつものこと",
+                 "자주 하는 일",
+                 "Rutinas"
+             ],
+    "猫猫小窝":  [
+                 "貓貓小窩",
+                 "Cat corner",
+                 "ねこのおうち",
+                 "고양이 쉼터",
+                 "Rincón gatuno"
+             ],
+    "不用一下子很厉害，":  [
+                      "不用一下子很厲害，",
+                      "You don\u0027t have to do it all.",
+                      "一度に頑張らなくても、",
+                      "처음부터 잘하지 않아도 돼요.",
+                      "No hace falta hacerlo todo."
+                  ],
+    "先开始，就很好。":  [
+                     "先開始，就很好。",
+                     "Starting is enough.",
+                     "まず始めるだけで大丈夫。",
+                     "시작하는 것만으로 충분해요.",
+                     "Empezar ya está bien."
+                 ],
+    "专注守护":  [
+                 "專注守護",
+                 "Focus guard",
+                 "集中サポート",
+                 "집중 도우미",
+                 "Protección de enfoque"
+             ],
+    "已获得屏幕使用时间授权":  [
+                        "已獲得螢幕使用時間授權",
+                        "Screen Time authorized",
+                        "スクリーンタイム許可済み",
+                        "스크린 타임 승인됨",
+                        "Tiempo de uso autorizado"
+                    ],
+    "连接屏幕使用时间":  [
+                     "連接螢幕使用時間",
+                     "Connect Screen Time",
+                     "スクリーンタイムを連携",
+                     "스크린 타임 연결",
+                     "Conectar Tiempo de uso"
+                 ],
+    "了解 iOS 屏幕使用时间":  [
+                          "了解 iOS 螢幕使用時間",
+                          "About iOS Screen Time",
+                          "iOSスクリーンタイムについて",
+                          "iOS 스크린 타임 알아보기",
+                          "Sobre Tiempo de uso de iOS"
+                      ],
+    "我的空间":  [
+                 "我的空間",
+                 "My space",
+                 "マイスペース",
+                 "내 공간",
+                 "Mi espacio"
+             ],
+    "专注守护设置":  [
+                   "專注守護設定",
+                   "Focus guard settings",
+                   "集中サポート設定",
+                   "집중 도우미 설정",
+                   "Ajustes de enfoque"
+               ],
+    "喵币":  [
+               "喵幣",
+               "Meow Coins",
+               "にゃんコイン",
+               "야옹 코인",
+               "monedas miau"
+           ],
+    "我的猫猫":  [
+                 "我的貓貓",
+                 "My cats",
+                 "私のねこ",
+                 "내 고양이",
+                 "Mis gatos"
+             ],
+    "重新连接":  [
+                 "重新連線",
+                 "Reconnect",
+                 "再接続",
+                 "다시 연결",
+                 "Reconectar"
+             ],
+    "小猫暂时没连上服务":  [
+                      "小貓暫時沒連上服務",
+                      "We couldn\u0027t connect right now",
+                      "接続できませんでした",
+                      "지금은 연결할 수 없어요",
+                      "No se pudo conectar"
+                  ],
+    "小猫正在整理你的一天…":  [
+                        "小貓正在整理你的一天…",
+                        "Getting your day ready…",
+                        "今日の予定を準備中…",
+                        "하루를 준비하고 있어요…",
+                        "Preparando tu día…"
+                    ],
+    "每个开始，都值得被看见":  [
+                        "每個開始，都值得被看見",
+                        "Every start deserves a little cheer",
+                        "どんな一歩も、大切な一歩",
+                        "모든 시작은 응원받을 가치가 있어요",
+                        "Cada comienzo merece un aplauso"
+                    ],
+    "把想做的，变成开始的":  [
+                       "把想做的，變成開始的",
+                       "Turn someday into a start",
+                       "「いつか」を、最初の一歩に",
+                       "하고 싶은 일을 시작으로",
+                       "Convierte tus ganas en un comienzo"
+                   ],
+    "不用一口气做完。今天，先迈出小小的一步。":  [
+                                 "不用一口氣做完。今天，先邁出小小的一步。",
+                                 "No need to finish it all. Take one small step today.",
+                                 "全部終わらせなくても大丈夫。今日は小さな一歩を。",
+                                 "다 끝내지 않아도 괜찮아요. 오늘은 작은 한 걸음만.",
+                                 "No tienes que acabarlo todo. Da un pequeño paso hoy."
+                             ],
+    "添加任务":  [
+                 "新增任務",
+                 "Add task",
+                 "タスクを追加",
+                 "할 일 추가",
+                 "Añadir tarea"
+             ],
+    "这一周":  [
+                "這一週",
+                "This week",
+                "今週",
+                "이번 주",
+                "Esta semana"
+            ],
+    "上一周":  [
+                "上一週",
+                "Previous week",
+                "前の週",
+                "지난주",
+                "Semana anterior"
+            ],
+    "下一周":  [
+                "下一週",
+                "Next week",
+                "次の週",
+                "다음 주",
+                "Semana siguiente"
+            ],
+    "小猫在等你行动":  [
+                    "小貓在等你行動",
+                    "Your cat is waiting for your first step",
+                    "ねこが一歩を待っているよ",
+                    "고양이가 첫걸음을 기다려요",
+                    "Tu gato espera tu primer paso"
+                ],
+    "和小猫一起，慢慢开始":  [
+                       "和小貓一起，慢慢開始",
+                       "Start gently, with a friend",
+                       "ねこと一緒に、少しずつ",
+                       "고양이와 함께 천천히 시작해요",
+                       "Empieza a tu ritmo, en compañía"
+                   ],
+    "该出发了，":  [
+                  "該出發了，",
+                  "It\u0027s time to begin.",
+                  "さあ、始めよう。",
+                  "이제 시작할 시간이에요.",
+                  "Es hora de empezar."
+              ],
+    "就从第一步开始。":  [
+                     "就從第一步開始。",
+                     "Just one little step.",
+                     "まずは一歩だけ。",
+                     "작은 첫걸음부터.",
+                     "Solo un pequeño paso."
+                 ],
+    "你负责开始，":  [
+                   "你負責開始，",
+                   "You take the first step.",
+                   "あなたが踏み出す一歩に、",
+                   "당신이 시작하면,",
+                   "Tú das el primer paso."
+               ],
+    "小猫负责陪伴。":  [
+                    "小貓負責陪伴。",
+                    "Your cat keeps you company.",
+                    "ねこが寄り添います。",
+                    "고양이가 함께할게요.",
+                    "Tu gato te acompaña."
+                ],
+    "「{0}」已经到时间了。":  [
+                         "「{0}」已經到時間了。",
+                         "It\u0027s time for “{0}”.",
+                         "「{0}」の時間です。",
+                         "“{0}”을 시작할 시간이에요.",
+                         "Es hora de «{0}»."
+                     ],
+    "那些拖了很久的事，今天可以有个开头。":  [
+                               "那些拖了很久的事，今天可以有個開頭。",
+                               "That thing you\u0027ve put off can begin today.",
+                               "後回しにしていたことも、今日から少しずつ。",
+                               "미뤄 둔 일도 오늘 시작할 수 있어요.",
+                               "Eso que has pospuesto puede empezar hoy."
+                           ],
+    "去提交开始凭证":  [
+                    "去提交開始憑證",
+                    "Show your first step",
+                    "始めた証拠を送る",
+                    "시작 인증하기",
+                    "Muestra tu primer paso"
+                ],
+    "看看下一件事":  [
+                   "看看下一件事",
+                   "See what\u0027s next",
+                   "次の予定を見る",
+                   "다음 할 일 보기",
+                   "Ver lo siguiente"
+               ],
+    "写下第一件想做的事":  [
+                      "寫下第一件想做的事",
+                      "Plan your first step",
+                      "最初の予定を書く",
+                      "첫 번째 할 일 적기",
+                      "Planea tu primer paso"
+                  ],
+    "{0}陪着你":  [
+                   "{0}陪著你",
+                   "{0} is with you",
+                   "{0}がそばにいるよ",
+                   "{0}와 함께해요",
+                   "{0} te acompaña"
+               ],
+    "今天的小目标":  [
+                   "今天的小目標",
+                   "Today\u0027s little goals",
+                   "今日の小さな目標",
+                   "오늘의 작은 목표",
+                   "Pequeñas metas de hoy"
+               ],
+    "{0}的小目标":  [
+                    "{0}的小目標",
+                    "Goals for {0}",
+                    "{0}の目標",
+                    "{0}의 목표",
+                    "Metas del {0}"
+                ],
+    "全部记录":  [
+                 "全部紀錄",
+                 "All activity",
+                 "すべての記録",
+                 "전체 기록",
+                 "Toda la actividad"
+             ],
+    "照片记录开始":  [
+                   "照片記錄開始",
+                   "Photo check-in",
+                   "写真で記録",
+                   "사진으로 시작 기록",
+                   "Inicio con foto"
+               ],
+    "给这一天，一个小小的开始":  [
+                         "給這一天，一個小小的開始",
+                         "Give today a little beginning",
+                         "今日に、小さな始まりを",
+                         "오늘에 작은 시작을 더해요",
+                         "Dale a hoy un pequeño comienzo"
+                     ],
+    "写论文、读几页书，或收拾一下书桌。":  [
+                              "寫論文、讀幾頁書，或收拾一下書桌。",
+                              "Write, read a few pages, or tidy your desk.",
+                              "文章を書く、本を読む、机を片づける。",
+                              "글쓰기, 책 몇 쪽 읽기, 책상 정리하기.",
+                              "Escribe, lee unas páginas u ordena tu escritorio."
+                          ],
+    "添加这一天的任务":  [
+                     "新增這一天的任務",
+                     "Add a task for this day",
+                     "この日にタスクを追加",
+                     "이 날짜에 할 일 추가",
+                     "Añadir tarea para este día"
+                 ],
+    "再添一件想做的事":  [
+                     "再添一件想做的事",
+                     "Add one more little goal",
+                     "やりたいことをもう一つ",
+                     "하고 싶은 일 하나 더",
+                     "Añade otra pequeña meta"
+                 ],
+    "开始就有意义，不必等到万事俱备。":  [
+                             "開始就有意義，不必等到萬事俱備。",
+                             "Starting matters. You don\u0027t have to be ready for everything.",
+                             "始めることに意味がある。準備が完璧でなくても。",
+                             "모든 준비가 끝나지 않아도 시작은 의미 있어요.",
+                             "Empezar cuenta. No hace falta tenerlo todo listo."
+                         ],
+    "我的陪伴官":  [
+                  "我的陪伴官",
+                  "My companion",
+                  "私のパートナー",
+                  "나의 동반자",
+                  "Mi compañero"
+              ],
+    "初次见面":  [
+                 "初次見面",
+                 "Hello, friend",
+                 "はじめまして",
+                 "반가워요",
+                 "Hola, amigo"
+             ],
+    "次":  [
+              "次",
+              " starts",
+              "回",
+              "회",
+              " veces"
+          ],
+    "勇敢开始":  [
+                 "勇敢開始",
+                 "Brave starts",
+                 "踏み出した一歩",
+                 "용기 있는 시작",
+                 "Comienzos valientes"
+             ],
+    "猫猫朋友":  [
+                 "貓貓朋友",
+                 "Cat friends",
+                 "ねこ友だち",
+                 "고양이 친구",
+                 "Amigos gatunos"
+             ],
+    "去猫猫小窝":  [
+                  "去貓貓小窩",
+                  "Visit cat corner",
+                  "ねこのおうちへ",
+                  "고양이 쉼터로",
+                  "Ir al rincón gatuno"
+              ],
+    "等待你的第一步":  [
+                    "等待你的第一步",
+                    "Waiting for your first step",
+                    "最初の一歩を待ってるよ",
+                    "첫걸음을 기다려요",
+                    "Esperando tu primer paso"
+                ],
+    "下一次开始":  [
+                  "下一次開始",
+                  "Your next start",
+                  "次のスタート",
+                  "다음 시작",
+                  "Tu próximo comienzo"
+              ],
+    "留一个位置给想做的事":  [
+                       "留一個位置給想做的事",
+                       "Make room for a little goal",
+                       "やりたいことの場所を作ろう",
+                       "하고 싶은 일을 위한 자리",
+                       "Haz sitio para una pequeña meta"
+                   ],
+    "提前约定，让开始更容易。":  [
+                         "提前約定，讓開始更容易。",
+                         "Make a plan. Make starting easier.",
+                         "時間を決めて、始めやすく。",
+                         "미리 약속하면 시작이 쉬워져요.",
+                         "Planearlo hace más fácil empezar."
+                     ],
+    "拍下开始的那一刻":  [
+                     "拍下開始的那一刻",
+                     "Capture your first step",
+                     "始めた瞬間を撮ろう",
+                     "시작의 순간 촬영하기",
+                     "Captura tu primer paso"
+                 ],
+    "设定我的第一个任务":  [
+                      "設定我的第一個任務",
+                      "Plan my first task",
+                      "最初のタスクを設定",
+                      "첫 할 일 정하기",
+                      "Planear mi primera tarea"
+                  ],
+    "今天的开始":  [
+                  "今天的開始",
+                  "Today\u0027s starts",
+                  "今日のスタート",
+                  "오늘의 시작",
+                  "Comienzos de hoy"
+              ],
+    "熟悉的小事，也值得认真开始":  [
+                          "熟悉的小事，也值得認真開始",
+                          "Small routines deserve a fresh start",
+                          "いつものことも、大切な一歩",
+                          "익숙한 일도 소중하게 시작해요",
+                          "Las rutinas también merecen un buen comienzo"
+                      ],
+    "把经常想做的事收在这里，下次只用选个时间。":  [
+                                  "把經常想做的事收在這裡，下次只用選個時間。",
+                                  "Keep your routines here. Next time, just pick a time.",
+                                  "いつものことを保存。次は時間を選ぶだけ。",
+                                  "자주 하는 일을 저장하세요. 다음엔 시간만 정하면 돼요.",
+                                  "Guarda tus rutinas aquí. La próxima vez, solo elige la hora."
+                              ],
+    "新建任务":  [
+                 "新增任務",
+                 "New task",
+                 "新しいタスク",
+                 "새 할 일",
+                 "Nueva tarea"
+             ],
+    "少一点重复输入，多一点行动。":  [
+                           "少一點重複輸入，多一點行動。",
+                           "Less typing. More doing.",
+                           "入力を減らして、行動を増やそう。",
+                           "입력은 줄이고 행동은 늘려요.",
+                           "Menos escribir, más actuar."
+                       ],
+    "创建任务时选择「保存为常做的事」，就会出现在这里。":  [
+                                      "建立任務時選擇「儲存為常做的事」，就會出現在這裡。",
+                                      "Choose “Save as a routine” when creating a task to add it here.",
+                                      "タスク作成時に「いつものことに保存」を選ぶと、ここに表示されます。",
+                                      "할 일을 만들 때 ‘자주 하는 일로 저장’을 선택하세요.",
+                                      "Elige «Guardar como rutina» al crear una tarea para añadirla aquí."
+                                  ],
+    "移除常用任务{0}":  [
+                      "移除常用任務{0}",
+                      "Remove routine {0}",
+                      "「{0}」を削除",
+                      "자주 하는 일 {0} 삭제",
+                      "Eliminar rutina {0}"
+                  ],
+    "已移除常用任务，已创建的任务不受影响":  [
+                               "已移除常用任務，已建立的任務不受影響",
+                               "Routine removed. Existing tasks are unchanged.",
+                               "削除しました。作成済みのタスクはそのままです。",
+                               "삭제했어요. 이미 만든 할 일은 유지돼요.",
+                               "Rutina eliminada. Las tareas existentes se conservan."
+                           ],
+    "安排一次":  [
+                 "安排一次",
+                 "Schedule it",
+                 "予定を入れる",
+                 "일정 잡기",
+                 "Programar"
+             ],
+    "收藏下一件小事":  [
+                    "收藏下一件小事",
+                    "Save a little routine",
+                    "いつものことを追加",
+                    "작은 일 저장하기",
+                    "Guarda una rutina"
+                ],
+    "为你经常做的事留个位置":  [
+                        "為你經常做的事留個位置",
+                        "A place for things you do often",
+                        "よくすることの場所",
+                        "자주 하는 일을 위한 공간",
+                        "Un lugar para lo que haces a menudo"
+                    ],
+    "每一次行动，都在靠近新朋友":  [
+                          "每一次行動，都在靠近新朋友",
+                          "Every step brings a new friend closer",
+                          "一歩ずつ、新しい友だちに近づく",
+                          "한 걸음마다 새 친구와 가까워져요",
+                          "Cada paso te acerca a un nuevo amigo"
+                      ],
+    "攒下开始的勇气，遇见属于你的猫猫。":  [
+                              "攢下開始的勇氣，遇見屬於你的貓貓。",
+                              "Save a little courage. Meet your cat companions.",
+                              "始める勇気を集めて、ねこと出会おう。",
+                              "시작의 용기를 모아 고양이 친구를 만나요.",
+                              "Reúne valor para empezar y conoce a tus gatos."
+                          ],
+    "喵币记录":  [
+                 "喵幣紀錄",
+                 "Coin history",
+                 "コインの記録",
+                 "코인 기록",
+                 "Historial de monedas"
+             ],
+    "下一只猫猫，会是谁呢？":  [
+                        "下一隻貓貓，會是誰呢？",
+                        "Who\u0027s your next cat friend?",
+                        "次はどんなねこに会えるかな？",
+                        "다음 고양이는 누구일까요?",
+                        "¿Quién será tu próximo gato?"
+                    ],
+    "每次勇敢开始，获得 {0} 喵币。":  [
+                              "每次勇敢開始，獲得 {0} 喵幣。",
+                              "Earn {0} Meow Coins each time you start.",
+                              "始めるたびに{0}にゃんコイン。",
+                              "시작할 때마다 야옹 코인 {0}개를 받아요.",
+                              "Gana {0} monedas miau cada vez que empiezas."
+                          ],
+    "花 {0} 喵币，带一位新朋友回家。":  [
+                               "花 {0} 喵幣，帶一位新朋友回家。",
+                               "Spend {0} Meow Coins to bring a new friend home.",
+                               "{0}にゃんコインで新しい友だちを迎えよう。",
+                               "야옹 코인 {0}개로 새 친구를 데려와요.",
+                               "Usa {0} monedas miau para traer un nuevo amigo a casa."
+                           ],
+    "猫猫已经到齐啦":  [
+                    "貓貓已經到齊啦",
+                    "All cats collected",
+                    "みんなそろったよ",
+                    "모든 고양이를 모았어요",
+                    "Ya tienes todos los gatos"
+                ],
+    "遇见一只猫猫 · {0} 喵币":  [
+                            "遇見一隻貓貓 · {0} 喵幣",
+                            "Meet a cat · {0} coins",
+                            "ねこと出会う · {0}コイン",
+                            "고양이 만나기 · {0}코인",
+                            "Conoce un gato · {0} monedas"
+                        ],
+    "只会抽到未拥有的猫猫，每只概率相同":  [
+                              "只會抽到未擁有的貓貓，每隻機率相同",
+                              "Only new cats, all with equal chances",
+                              "まだ持っていないねこが、同じ確率で登場",
+                              "아직 없는 고양이만 같은 확률로 만나요",
+                              "Solo gatos nuevos, todos con la misma probabilidad"
+                          ],
+    "我的猫猫朋友":  [
+                   "我的貓貓朋友",
+                   "My cat friends",
+                   "私のねこ友だち",
+                   "나의 고양이 친구",
+                   "Mis amigos gatunos"
+               ],
+    "点击已拥有的猫猫，选择陪伴官":  [
+                           "點選已擁有的貓貓，選擇陪伴官",
+                           "Choose a collected cat as your companion",
+                           "持っているねこを選んでパートナーに",
+                           "모은 고양이를 동반자로 선택하세요",
+                           "Elige un gato que ya tengas como compañero"
+                       ],
+    "正在陪伴":  [
+                 "正在陪伴",
+                 "By your side",
+                 "いっしょにいるよ",
+                 "함께하는 중",
+                 "A tu lado"
+             ],
+    "等待一次温柔的相遇":  [
+                      "等待一次溫柔的相遇",
+                      "Waiting for a gentle hello",
+                      "出会いを待っているよ",
+                      "다정한 만남을 기다려요",
+                      "Esperando un encuentro amable"
+                  ],
+    "已收集":  [
+                "已收集",
+                "Collected",
+                "お迎え済み",
+                "수집 완료",
+                "Conseguido"
+            ],
+    "尚未遇见":  [
+                 "尚未遇見",
+                 "Not met yet",
+                 "まだ出会っていない",
+                 "아직 만나지 못했어요",
+                 "Aún por conocer"
+             ],
+    "ShutterCat · 把开始，变成一件温柔的事。":  [
+                               "ShutterCat · 把開始，變成一件溫柔的事。",
+                               "ShutterCat · A gentler way to begin.",
+                               "ShutterCat · やさしく始めよう。",
+                               "ShutterCat · 다정하게 시작해요.",
+                               "ShutterCat · Una forma amable de empezar."
+                           ],
+    "iOS 客户端":  [
+                    "iOS 用戶端",
+                    "iOS app",
+                    "iOSアプリ",
+                    "iOS 앱",
+                    "App de iOS"
+                ],
+    "Android 客户端":  [
+                        "Android 用戶端",
+                        "Android app",
+                        "Androidアプリ",
+                        "Android 앱",
+                        "App de Android"
+                    ],
+    "Android Web 预览":  [
+                           "Android 網頁預覽",
+                           "Android web preview",
+                           "Androidウェブプレビュー",
+                           "Android 웹 미리보기",
+                           "Vista web de Android"
+                       ],
+    "移动导航":  [
+                 "行動導覽",
+                 "Mobile navigation",
+                 "モバイルナビゲーション",
+                 "모바일 메뉴",
+                 "Navegación móvil"
+             ],
+    "一周":  [
+               "一週",
+               "Week",
+               "今週",
+               "한 주",
+               "Semana"
+           ],
+    "给开始定个时间":  [
+                    "給開始定個時間",
+                    "Make time to begin",
+                    "始める時間を決めよう",
+                    "시작할 시간을 정해요",
+                    "Ponle hora a tu comienzo"
+                ],
+    "记录开始的这一刻":  [
+                     "記錄開始的這一刻",
+                     "Capture your beginning",
+                     "始めた瞬間を記録",
+                     "시작의 순간을 기록해요",
+                     "Registra tu comienzo"
+                 ],
+    "今天，先放下这件事":  [
+                      "今天，先放下這件事",
+                      "Let this one go for now",
+                      "今日は、いったん見送ろう",
+                      "오늘은 잠시 내려놓아요",
+                      "Déjalo por ahora"
+                  ],
+    "我的喵币":  [
+                 "我的喵幣",
+                 "My Meow Coins",
+                 "私のにゃんコイン",
+                 "내 야옹 코인",
+                 "Mis monedas miau"
+             ],
+    "让小猫帮你守护专注":  [
+                      "讓小貓幫你守護專注",
+                      "Let your cat help you focus",
+                      "ねこと一緒に集中しよう",
+                      "고양이와 함께 집중해요",
+                      "Tu gato te ayuda a concentrarte"
+                  ],
+    "每一次开始，都算数":  [
+                      "每一次開始，都算數",
+                      "Every start counts",
+                      "すべての一歩が大切",
+                      "모든 시작은 의미 있어요",
+                      "Cada comienzo cuenta"
+                  ],
+    "这件小事":  [
+                 "這件小事",
+                 "This little task",
+                 "この小さなタスク",
+                 "이 작은 할 일",
+                 "Esta pequeña tarea"
+             ],
+    "新朋友来啦！":  [
+                   "新朋友來啦！",
+                   "A new friend is here!",
+                   "新しい友だちだよ！",
+                   "새 친구가 왔어요!",
+                   "¡Ha llegado un nuevo amigo!"
+               ],
+    "认识这只猫猫":  [
+                   "認識這隻貓貓",
+                   "Meet this cat",
+                   "このねこを知る",
+                   "이 고양이 알아보기",
+                   "Conoce a este gato"
+               ],
+    "约定好啦，小猫会陪你开始":  [
+                         "約定好啦，小貓會陪你開始",
+                         "It\u0027s a plan! Your cat will be with you.",
+                         "約束できたね。ねこが一緒にいるよ。",
+                         "약속했어요! 고양이가 함께할게요.",
+                         "¡Hecho! Tu gato te acompañará."
+                     ],
+    "你已经开始啦！+{0} 喵币，小猫为你骄傲":  [
+                                  "你已經開始啦！+{0} 喵幣，小貓為你驕傲",
+                                  "You started! +{0} Meow Coins. Your cat is proud of you.",
+                                  "始められたね！+{0}コイン。ねこも喜んでいるよ。",
+                                  "시작했어요! +{0}코인. 고양이가 자랑스러워해요.",
+                                  "¡Has empezado! +{0} monedas. Tu gato está orgulloso."
+                              ],
+    "「{0}」这次先放下。":  [
+                        "「{0}」這次先放下。",
+                        "Let “{0}” go for now.",
+                        "今回は「{0}」を見送りましょう。",
+                        "“{0}”은 이번엔 내려놓아요.",
+                        "Deja «{0}» por ahora."
+                    ],
+    "小猫会继续陪你迎接下一个开始。":  [
+                            "小貓會繼續陪你迎接下一個開始。",
+                            "Your cat will be here for your next beginning.",
+                            "次のスタートも、ねこがそばにいるよ。",
+                            "다음 시작에도 고양이가 함께해요.",
+                            "Tu gato estará contigo en tu próximo comienzo."
+                        ],
+    "本次约定的惩罚":  [
+                    "本次約定的懲罰",
+                    "Agreed penalty",
+                    "今回のペナルティ",
+                    "약속한 페널티",
+                    "Penalización acordada"
+                ],
+    "余额：{0} → {1} 喵币":  [
+                            "餘額：{0} → {1} 喵幣",
+                            "Balance: {0} → {1} coins",
+                            "残高：{0} → {1}コイン",
+                            "잔액: {0} → {1}코인",
+                            "Saldo: {0} → {1} monedas"
+                        ],
+    "余额不足时会记录为负数，下次开始任务获得奖励后补回。仍然可以退出。":  [
+                                              "餘額不足時會記錄為負數，下次開始任務獲得獎勵後補回。仍然可以退出。",
+                                              "You can still leave with a low balance. It may go negative; future rewards will cover it.",
+                                              "残高が足りなくても退出できます。マイナス分は次の報酬で補えます。",
+                                              "잔액이 부족해도 나갈 수 있어요. 부족분은 다음 보상으로 채울 수 있어요.",
+                                              "Puedes salir aunque no tengas saldo. Puede quedar negativo y se compensará con futuras recompensas."
+                                          ],
+    "已接受惩罚。这次先放下，下次再开始。":  [
+                               "已接受懲罰。這次先放下，下次再開始。",
+                               "Penalty accepted. Let it go for now and try again next time.",
+                               "ペナルティを受け入れました。また次の一歩へ。",
+                               "페널티를 수락했어요. 다음에 다시 시작해요.",
+                               "Penalización aceptada. Puedes volver a empezar la próxima vez."
+                           ],
+    "接受惩罚，放下这次任务":  [
+                        "接受懲罰，放下這次任務",
+                        "Accept penalty and let this task go",
+                        "ペナルティを受け入れて見送る",
+                        "페널티 수락하고 내려놓기",
+                        "Aceptar penalización y dejar la tarea"
+                    ],
+    "我想再试一下":  [
+                   "我想再試一下",
+                   "I\u0027d like to try again",
+                   "もう一度やってみる",
+                   "다시 해볼게요",
+                   "Quiero intentarlo otra vez"
+               ],
+    "我的喵币余额":  [
+                   "我的喵幣餘額",
+                   "My coin balance",
+                   "コイン残高",
+                   "내 코인 잔액",
+                   "Mi saldo"
+               ],
+    "一次开始 +{0} · 一次放弃 −{1} · 遇见猫猫 −{2}":  [
+                                              "一次開始 +{0} · 一次放棄 −{1} · 遇見貓貓 −{2}",
+                                              "Start +{0} · Let go −{1} · New cat −{2}",
+                                              "開始 +{0} · 見送り −{1} · ねこ −{2}",
+                                              "시작 +{0} · 내려놓기 −{1} · 고양이 −{2}",
+                                              "Empezar +{0} · Dejar −{1} · Gato −{2}"
+                                          ],
+    "每一枚，都有来处":  [
+                     "每一枚，都有來處",
+                     "Every coin has a story",
+                     "コインごとの記録",
+                     "코인마다 이야기가 있어요",
+                     "Cada moneda tiene su historia"
+                 ],
+    "喵币仅用于本 APP，不支持充值、转账或提现。当前使用此设备的匿名账号，清除 Cookie 后无法找回余额。":  [
+                                                                   "喵幣僅用於本 APP，不支援儲值、轉帳或提現。目前使用此裝置的匿名帳號，清除 Cookie 後無法找回餘額。",
+                                                                   "Coins are only for this app, with no purchases, transfers or cash-out. This is an anonymous account; clearing cookies loses access to your balance.",
+                                                                   "コインはアプリ内専用です。購入・送金・換金はできません。匿名アカウントのため、Cookieを削除すると残高にアクセスできなくなります。",
+                                                                   "코인은 앱 안에서만 사용하며 충전·이체·출금할 수 없어요. 익명 계정이므로 쿠키를 지우면 잔액을 복구할 수 없어요.",
+                                                                   "Las monedas son solo para esta app, sin compras, transferencias ni retiros. La cuenta es anónima; borrar las cookies hace que pierdas acceso al saldo."
+                                                               ],
+    "把分心留给小猫，":  [
+                     "把分心留給小貓，",
+                     "Let your cat handle distractions.",
+                     "気が散ることはねこに任せて、",
+                     "방해되는 일은 고양이에게 맡기고,",
+                     "Deja las distracciones a tu gato."
+                 ],
+    "把第一步留给自己。":  [
+                      "把第一步留給自己。",
+                      "Keep the first step for yourself.",
+                      "あなたは最初の一歩を。",
+                      "당신은 첫걸음에 집중해요.",
+                      "Reserva el primer paso para ti."
+                  ],
+    "屏幕使用时间：{0} · 已选 {1} 个 App":  [
+                                      "螢幕使用時間：{0} · 已選 {1} 個 App",
+                                      "Screen Time: {0} · Apps selected: {1}",
+                                      "スクリーンタイム：{0} · 選択：{1}アプリ",
+                                      "스크린 타임: {0} · 선택 앱: {1}",
+                                      "Tiempo de uso: {0} · Apps elegidas: {1}"
+                                  ],
+    "已授权":  [
+                "已授權",
+                "Authorized",
+                "許可済み",
+                "승인됨",
+                "Autorizado"
+            ],
+    "未授权":  [
+                "未授權",
+                "Not authorized",
+                "未許可",
+                "승인되지 않음",
+                "Sin autorizar"
+            ],
+    "授权屏幕使用时间":  [
+                     "授權螢幕使用時間",
+                     "Authorize Screen Time",
+                     "スクリーンタイムを許可",
+                     "스크린 타임 승인",
+                     "Autorizar Tiempo de uso"
+                 ],
+    "选择需要守护的 App":  [
+                        "選擇需要守護的 App",
+                        "Choose apps to guard",
+                        "対象のアプリを選ぶ",
+                        "집중 도우미 대상 앱 선택",
+                        "Elegir apps para proteger"
+                    ],
+    "SHIELD 内容预览 · 非系统屏蔽":  [
+                                "SHIELD 內容預覽 · 非系統封鎖",
+                                "Shield preview · Not a system block",
+                                "シールドのプレビュー · 実際の制限ではありません",
+                                "보호 화면 미리보기 · 실제 차단 아님",
+                                "Vista de protección · No es un bloqueo real"
+                            ],
+    "守护内容预览 · 非系统屏蔽":  [
+                           "守護內容預覽 · 非系統封鎖",
+                           "Guard preview · Not a system block",
+                           "サポート画面のプレビュー · 実際の制限ではありません",
+                           "도우미 미리보기 · 실제 차단 아님",
+                           "Vista de enfoque · No es un bloqueo real"
+                       ],
+    "先开始，再来玩。":  [
+                     "先開始，再來玩。",
+                     "Start first. Play later.",
+                     "まずは一歩、遊ぶのはその後。",
+                     "먼저 시작하고, 그다음 놀아요.",
+                     "Primero empieza. Luego juega."
+                 ],
+    "小猫正在等你完成第一步。":  [
+                         "小貓正在等你完成第一步。",
+                         "Your cat is waiting for your first step.",
+                         "ねこが最初の一歩を待っています。",
+                         "고양이가 첫걸음을 기다려요.",
+                         "Tu gato espera tu primer paso."
+                     ],
+    "请回到ShutterCat，记录你的开始。":  [
+                          "請回到ShutterCat，記錄你的開始。",
+                          "Return to ShutterCat and record your start.",
+                          "ShutterCatに戻って、始めた記録を。",
+                          "ShutterCat로 돌아와 시작을 기록하세요.",
+                          "Vuelve a ShutterCat y registra tu comienzo."
+                      ],
+    "回到ShutterCat":  [
+                 "回到ShutterCat",
+                 "Back to ShutterCat",
+                 "ShutterCatに戻る",
+                 "ShutterCat로 돌아가기",
+                 "Volver a ShutterCat"
+             ],
+    "以后让{0}陪你一起开始":  [
+                         "以後讓{0}陪你一起開始",
+                         "{0} will join you for your next start",
+                         "これからは{0}と一緒に始めよう",
+                         "이제 {0}와 함께 시작해요",
+                         "{0} te acompañará en tus próximos comienzos"
+                     ],
+    "正在陪伴你":  [
+                  "正在陪伴你",
+                  "Already by your side",
+                  "今、そばにいるよ",
+                  "지금 함께하고 있어요",
+                  "Ya te acompaña"
+              ],
+    "让它做我的陪伴官":  [
+                     "讓牠做我的陪伴官",
+                     "Choose as my companion",
+                     "パートナーに選ぶ",
+                     "동반자로 선택",
+                     "Elegir como compañero"
+                 ],
+    "等下一次相遇":  [
+                   "等下一次相遇",
+                   "Until we meet",
+                   "いつか会おうね",
+                   "다음 만남을 기다려요",
+                   "Hasta que nos conozcamos"
+               ],
+    "还没有记录，从第一件小事开始吧。":  [
+                             "還沒有紀錄，從第一件小事開始吧。",
+                             "No activity yet. Start with one little thing.",
+                             "まだ記録がありません。小さなことから始めよう。",
+                             "아직 기록이 없어요. 작은 일부터 시작해요.",
+                             "Aún no hay actividad. Empieza con algo pequeño."
+                         ],
+    "凭证照片已删除，任务记录和奖励保留":  [
+                              "憑證照片已刪除，任務紀錄和獎勵保留",
+                              "Photo deleted. Task history and rewards are kept.",
+                              "写真を削除しました。記録と報酬は残ります。",
+                              "사진을 삭제했어요. 기록과 보상은 유지돼요.",
+                              "Foto eliminada. Se conservan el historial y las recompensas."
+                          ],
+    "关闭":  [
+               "關閉",
+               "Close",
+               "閉じる",
+               "닫기",
+               "Cerrar"
+           ],
+    "先写下你准备做什么":  [
+                      "先寫下你準備做什麼",
+                      "Write what you plan to do first",
+                      "やりたいことを入力してください",
+                      "하려는 일을 먼저 적어 주세요",
+                      "Escribe primero lo que vas a hacer"
+                  ],
+    "请选择稍晚一点的开始时间":  [
+                         "請選擇稍晚一點的開始時間",
+                         "Choose a start time a little later",
+                         "もう少し後の時間を選んでください",
+                         "조금 더 늦은 시작 시간을 골라 주세요",
+                         "Elige una hora de inicio un poco posterior"
+                     ],
+    "请填写自定义凭证要求":  [
+                       "請填寫自訂憑證要求",
+                       "Describe your custom photo requirement",
+                       "写真の条件を入力してください",
+                       "직접 정한 인증 조건을 적어 주세요",
+                       "Describe el requisito de tu foto"
+                   ],
+    "提前和自己约好，剩下的交给开始。":  [
+                             "提前和自己約好，剩下的交給開始。",
+                             "Make a promise to yourself. Then take the first step.",
+                             "自分と約束したら、あとは始めるだけ。",
+                             "미리 자신과 약속하고 첫걸음을 내디뎌요.",
+                             "Haz un trato contigo y da el primer paso."
+                         ],
+    "我准备做什么":  [
+                   "我準備做什麼",
+                   "What will I do?",
+                   "何を始める？",
+                   "무엇을 할까요?",
+                   "¿Qué voy a hacer?"
+               ],
+    "比如，写论文的第一段":  [
+                       "比如，寫論文的第一段",
+                       "For example, write the first paragraph",
+                       "例：レポートの最初の段落を書く",
+                       "예: 글의 첫 문단 쓰기",
+                       "Por ejemplo, escribir el primer párrafo"
+                   ],
+    "写论文":  [
+                "寫論文",
+                "Write an essay",
+                "レポートを書く",
+                "논문 쓰기",
+                "Escribir un ensayo"
+            ],
+    "读 10 页书":  [
+                    "讀 10 頁書",
+                    "Read 10 pages",
+                    "本を10ページ読む",
+                    "책 10쪽 읽기",
+                    "Leer 10 páginas"
+                ],
+    "出门运动":  [
+                 "出門運動",
+                 "Go exercise",
+                 "運動に出かける",
+                 "운동하러 나가기",
+                 "Salir a hacer ejercicio"
+             ],
+    "整理书桌":  [
+                 "整理書桌",
+                 "Tidy my desk",
+                 "机を片づける",
+                 "책상 정리하기",
+                 "Ordenar mi escritorio"
+             ],
+    "开始日期":  [
+                 "開始日期",
+                 "Start date",
+                 "開始日",
+                 "시작 날짜",
+                 "Fecha de inicio"
+             ],
+    "开始时间":  [
+                 "開始時間",
+                 "Start time",
+                 "開始時刻",
+                 "시작 시간",
+                 "Hora de inicio"
+             ],
+    "我的开始凭证":  [
+                   "我的開始憑證",
+                   "My proof of starting",
+                   "始めた証拠",
+                   "나의 시작 인증",
+                   "Mi prueba de inicio"
+               ],
+    "根据任务自动生成":  [
+                     "根據任務自動產生",
+                     "Suggested for your task",
+                     "タスクに合わせて提案",
+                     "할 일에 맞게 자동 추천",
+                     "Sugerida para tu tarea"
+                 ],
+    "使用默认凭证":  [
+                   "使用預設憑證",
+                   "Use suggested proof",
+                   "おすすめを使う",
+                   "기본 인증 사용",
+                   "Usar sugerencia"
+               ],
+    "自己填写":  [
+                 "自己填寫",
+                 "Write my own",
+                 "自分で書く",
+                 "직접 입력",
+                 "Escribir la mía"
+             ],
+    "自定义凭证要求":  [
+                    "自訂憑證要求",
+                    "Custom photo requirement",
+                    "自分で決める写真の条件",
+                    "직접 정한 인증 조건",
+                    "Requisito de foto personalizado"
+                ],
+    "写下能证明你已经开始的照片要求":  [
+                            "寫下能證明你已經開始的照片要求",
+                            "Describe a photo that shows you\u0027ve started",
+                            "始めたことがわかる写真の条件を書いてください",
+                            "시작했다는 것을 보여 줄 사진 조건을 적어 주세요",
+                            "Describe una foto que demuestre que has empezado"
+                        ],
+    "保存为「常做的事」":  [
+                      "儲存為「常做的事」",
+                      "Save as a routine",
+                      "いつものことに保存",
+                      "자주 하는 일로 저장",
+                      "Guardar como rutina"
+                  ],
+    "下次不用重复填写":  [
+                     "下次不用重複填寫",
+                     "Skip the typing next time",
+                     "次は入力の手間なし",
+                     "다음엔 다시 입력하지 않아도 돼요",
+                     "No tendrás que volver a escribirla"
+                 ],
+    "开始奖励":  [
+                 "開始獎勵",
+                 "Starting reward",
+                 "開始の報酬",
+                 "시작 보상",
+                 "Recompensa por empezar"
+             ],
+    "主动放弃":  [
+                 "主動放棄",
+                 "Choosing to let go",
+                 "自分で見送る",
+                 "스스로 내려놓기",
+                 "Elegir dejarlo"
+             ],
+    "仅记录你已经开始，不要求完成整项任务。":  [
+                                "僅記錄你已經開始，不要求完成整項任務。",
+                                "You only need to start, not finish the whole task.",
+                                "タスク全体を終える必要はありません。始めた記録だけで大丈夫。",
+                                "일을 전부 끝낼 필요 없이 시작만 기록해요.",
+                                "Solo necesitas empezar, no terminar toda la tarea."
+                            ],
+    "和自己约定好":  [
+                   "和自己約定好",
+                   "Make the promise",
+                   "自分と約束する",
+                   "나와 약속하기",
+                   "Confirmar mi compromiso"
+               ],
+    "将要提交的任务凭证照片":  [
+                        "將要提交的任務憑證照片",
+                        "Task photo ready to submit",
+                        "送信する証拠写真",
+                        "제출할 인증 사진",
+                        "Foto de la tarea lista para enviar"
+                    ],
+    "开始的这一刻":  [
+                   "開始的這一刻",
+                   "The moment you began",
+                   "始めた瞬間",
+                   "시작의 순간",
+                   "El momento en que empezaste"
+               ],
+    "正在准备照片…":  [
+                    "正在準備照片…",
+                    "Preparing photo…",
+                    "写真を準備中…",
+                    "사진 준비 중…",
+                    "Preparando foto…"
+                ],
+    "拍下你迈出的第一步":  [
+                      "拍下你邁出的第一步",
+                      "Take a photo of your first step",
+                      "最初の一歩を撮ろう",
+                      "첫걸음을 사진으로 남겨요",
+                      "Fotografía tu primer paso"
+                  ],
+    "一张照片，就能记录一次勇敢的开始。":  [
+                              "一張照片，就能記錄一次勇敢的開始。",
+                              "One photo to celebrate a brave beginning.",
+                              "一枚の写真で、勇気ある一歩を記録。",
+                              "사진 한 장으로 용기 있는 시작을 기록해요.",
+                              "Una foto para celebrar un comienzo valiente."
+                          ],
+    "JPG / PNG / WebP · 最大 20 MB":  [
+                                        "JPG / PNG / WebP · 最大 20 MB",
+                                        "JPG / PNG / WebP · Up to 20 MB",
+                                        "JPG / PNG / WebP · 最大20 MB",
+                                        "JPG / PNG / WebP · 최대 20 MB",
+                                        "JPG / PNG / WebP · Hasta 20 MB"
+                                    ],
+    "拍一张":  [
+                "拍一張",
+                "Take photo",
+                "写真を撮る",
+                "사진 촬영",
+                "Hacer foto"
+            ],
+    "换张照片":  [
+                 "換張照片",
+                 "Change photo",
+                 "写真を変更",
+                 "사진 바꾸기",
+                 "Cambiar foto"
+             ],
+    "从相册选择":  [
+                  "從相簿選擇",
+                  "Choose from photos",
+                  "写真から選ぶ",
+                  "앨범에서 선택",
+                  "Elegir de la galería"
+              ],
+    "选择凭证照片":  [
+                   "選擇憑證照片",
+                   "Choose a proof photo",
+                   "証拠写真を選ぶ",
+                   "인증 사진 선택",
+                   "Elegir foto de prueba"
+               ],
+    "我确认照片展示了任务已经开始":  [
+                           "我確認照片展示了任務已經開始",
+                           "I confirm this photo shows I\u0027ve started",
+                           "始めたことがわかる写真だと確認しました",
+                           "사진이 할 일을 시작했음을 보여 주는지 확인했어요",
+                           "Confirmo que la foto muestra que he empezado"
+                       ],
+    "MVP 使用本人确认，暂未接入 AI 内容识别":  [
+                                    "MVP 使用本人確認，尚未接入 AI 內容辨識",
+                                    "Self-confirmed for now; no AI photo verification",
+                                    "本人による確認です。AIによる画像判定はありません",
+                                    "직접 확인하는 방식이며 AI 사진 검증은 아직 없어요",
+                                    "Por ahora se confirma personalmente; no hay verificación con IA"
+                                ],
+    "同时将照片保存至云端":  [
+                       "同時將照片儲存至雲端",
+                       "Also save the photo to the cloud",
+                       "写真をクラウドにも保存",
+                       "클라우드에도 사진 저장",
+                       "Guardar también en la nube"
+                   ],
+    "默认仅存此设备；云端照片可在任务记录中删除":  [
+                                  "預設僅存此裝置；雲端照片可在任務紀錄中刪除",
+                                  "Device-only by default. Cloud photos can be deleted from task history.",
+                                  "通常はこの端末のみ。クラウドの写真は履歴から削除できます。",
+                                  "기본은 이 기기에만 저장해요. 클라우드 사진은 기록에서 삭제할 수 있어요.",
+                                  "Por defecto, solo en este dispositivo. Puedes borrar las fotos de la nube desde el historial."
+                              ],
+    "提交照片，领取 {0} 喵币":  [
+                           "提交照片，領取 {0} 喵幣",
+                           "Submit photo · Get {0} coins",
+                           "写真を送って{0}コイン獲得",
+                           "사진 제출 · {0}코인 받기",
+                           "Enviar foto · Recibir {0} monedas"
+                       ],
+    "这次先放下，接受 −{0} 喵币惩罚":  [
+                               "這次先放下，接受 −{0} 喵幣懲罰",
+                               "Let it go this time · −{0} coins",
+                               "今回は見送る · −{0}コイン",
+                               "이번엔 내려놓기 · −{0}코인",
+                               "Dejarlo esta vez · −{0} monedas"
+                           ],
+    "约定时间":  [
+                 "約定時間",
+                 "Scheduled time",
+                 "約束の時間",
+                 "약속한 시간",
+                 "Hora acordada"
+             ],
+    "开始凭证":  [
+                 "開始憑證",
+                 "Proof of starting",
+                 "始めた証拠",
+                 "시작 인증",
+                 "Prueba de inicio"
+             ],
+    "放弃时间":  [
+                 "放棄時間",
+                 "Time let go",
+                 "見送った時刻",
+                 "내려놓은 시간",
+                 "Hora en que se dejó"
+             ],
+    "本次惩罚":  [
+                 "本次懲罰",
+                 "Penalty",
+                 "ペナルティ",
+                 "페널티",
+                 "Penalización"
+             ],
+    "时间还没到，小猫陪你等。你可以先准备好要用的东西。":  [
+                                      "時間還沒到，小貓陪你等。你可以先準備好要用的東西。",
+                                      "Not time yet. Your cat will wait with you while you get ready.",
+                                      "まだ時間ではありません。ねこと待ちながら準備しましょう。",
+                                      "아직 시간이 안 됐어요. 고양이와 기다리며 필요한 것을 준비해요.",
+                                      "Aún no es la hora. Tu gato espera contigo mientras te preparas."
+                                  ],
+    "已提交的任务凭证":  [
+                     "已提交的任務憑證",
+                     "Submitted task photo",
+                     "送信済みの証拠写真",
+                     "제출한 인증 사진",
+                     "Foto de tarea enviada"
+                 ],
+    "照片仅保存于提交时的浏览器。更换设备或清理本地数据后无法查看。":  [
+                                            "照片僅儲存於提交時的瀏覽器。更換裝置或清除本機資料後無法查看。",
+                                            "This photo is only in the browser you used. It won\u0027t be available on another device or after clearing local data.",
+                                            "写真は送信したブラウザ内のみです。端末の変更やデータ削除後は表示できません。",
+                                            "사진은 제출한 브라우저에만 있어요. 기기를 바꾸거나 데이터를 지우면 볼 수 없어요.",
+                                            "La foto está solo en el navegador usado. No estará disponible en otro dispositivo ni tras borrar los datos locales."
+                                        ],
+    "照片保存在私有云端，仅当前匿名账号可读取。":  [
+                                  "照片儲存在私人雲端，僅目前匿名帳號可讀取。",
+                                  "Saved in private cloud storage, accessible only to this anonymous account.",
+                                  "非公開クラウドに保存され、この匿名アカウントだけが閲覧できます。",
+                                  "비공개 클라우드에 저장되며 이 익명 계정만 볼 수 있어요.",
+                                  "Guardada en la nube privada, accesible solo desde esta cuenta anónima."
+                              ],
+    "删除这张凭证照片？任务记录和奖励会保留。":  [
+                                 "刪除這張憑證照片？任務紀錄和獎勵會保留。",
+                                 "Delete this photo? Task history and rewards will be kept.",
+                                 "写真を削除しますか？記録と報酬は残ります。",
+                                 "사진을 삭제할까요? 기록과 보상은 유지돼요.",
+                                 "¿Eliminar esta foto? Se conservarán el historial y las recompensas."
+                             ],
+    "删除凭证照片":  [
+                   "刪除憑證照片",
+                   "Delete photo",
+                   "証拠写真を削除",
+                   "인증 사진 삭제",
+                   "Eliminar foto"
+               ],
+    "云朵":  [
+               "雲朵",
+               "Cloud",
+               "くも",
+               "구름",
+               "Nube"
+           ],
+    "慢一点，也在向前":  [
+                     "慢一點，也在向前",
+                     "Slow is still moving forward",
+                     "ゆっくりでも、前に進んでる",
+                     "느려도 앞으로 나아가요",
+                     "Despacio también es avanzar"
+                 ],
+    "桃桃":  [
+               "桃桃",
+               "Peach",
+               "もも",
+               "복숭아",
+               "Melocotón"
+           ],
+    "给每个开始一点甜":  [
+                     "給每個開始一點甜",
+                     "A little sweetness for every start",
+                     "始まりに、少しの甘さを",
+                     "모든 시작에 달콤함을",
+                     "Dulzura para cada comienzo"
+                 ],
+    "抹茶":  [
+               "抹茶",
+               "Matcha",
+               "まっちゃ",
+               "말차",
+               "Matcha"
+           ],
+    "陪你慢慢长大":  [
+                   "陪你慢慢長大",
+                   "Growing at your own pace",
+                   "一緒に、少しずつ育とう",
+                   "함께 천천히 자라요",
+                   "Creciendo a tu ritmo"
+               ],
+    "布丁":  [
+               "布丁",
+               "Pudding",
+               "プリン",
+               "푸딩",
+               "Flan"
+           ],
+    "今天也暖乎乎的":  [
+                    "今天也暖呼呼的",
+                    "A little warmth for today",
+                    "今日も、ほっこり",
+                    "오늘도 따뜻하게",
+                    "Un poco de calidez para hoy"
+                ],
+    "晚安":  [
+               "晚安",
+               "Moon",
+               "おやすみ",
+               "달님",
+               "Luna"
+           ],
+    "月亮会记得你的努力":  [
+                      "月亮會記得你的努力",
+                      "The moon remembers your efforts",
+                      "月が頑張りを覚えてる",
+                      "달은 당신의 노력을 기억해요",
+                      "La luna recuerda tu esfuerzo"
+                  ],
+    "莓莓":  [
+               "莓莓",
+               "Berry",
+               "ベリー",
+               "베리",
+               "Mora"
+           ],
+    "小小一步，大大勇气":  [
+                      "小小一步，大大勇氣",
+                      "Small steps, big courage",
+                      "小さな一歩、大きな勇気",
+                      "작은 한 걸음, 커다란 용기",
+                      "Pasos pequeños, mucho valor"
+                  ],
+    "工作":  [
+               "工作",
+               "Work",
+               "仕事",
+               "업무",
+               "Trabajo"
+           ],
+    "学习":  [
+               "學習",
+               "Study",
+               "勉強",
+               "공부",
+               "Estudio"
+           ],
+    "运动":  [
+               "運動",
+               "Exercise",
+               "運動",
+               "운동",
+               "Ejercicio"
+           ],
+    "生活":  [
+               "生活",
+               "Life",
+               "暮らし",
+               "생활",
+               "Vida diaria"
+           ],
+    "拍一张已打开文档，并写下第一句话的照片。":  [
+                                 "拍一張已開啟文件，並寫下第一句話的照片。",
+                                 "Take a photo of your open document with the first sentence written.",
+                                 "文書を開き、最初の一文を書いた写真を撮りましょう。",
+                                 "문서를 열고 첫 문장을 쓴 사진을 찍으세요.",
+                                 "Haz una foto del documento abierto con la primera frase escrita."
+                             ],
+    "拍一张穿好运动鞋，已经来到运动地点的照片。":  [
+                                  "拍一張穿好運動鞋，已經來到運動地點的照片。",
+                                  "Take a photo with your trainers on at your exercise spot.",
+                                  "運動靴を履き、運動する場所に着いた写真を撮りましょう。",
+                                  "운동화를 신고 운동 장소에 도착한 사진을 찍으세요.",
+                                  "Haz una foto con las zapatillas puestas en el lugar de ejercicio."
+                              ],
+    "拍一张已经翻开书本，开始阅读或记笔记的照片。":  [
+                                   "拍一張已經翻開書本，開始閱讀或記筆記的照片。",
+                                   "Take a photo of your open book as you start reading or taking notes.",
+                                   "本を開いて、読み始めたりメモを取ったりしている写真を撮りましょう。",
+                                   "책을 펴고 읽거나 필기를 시작한 사진을 찍으세요.",
+                                   "Haz una foto del libro abierto al empezar a leer o tomar notas."
+                               ],
+    "拍一张已经开始整理的桌面或房间局部照片。":  [
+                                 "拍一張已經開始整理的桌面或房間局部照片。",
+                                 "Take a photo of the desk or room you\u0027ve started tidying.",
+                                 "片づけ始めた机や部屋の一部を撮りましょう。",
+                                 "정리를 시작한 책상이나 방 일부를 찍으세요.",
+                                 "Haz una foto de la mesa o habitación que has empezado a ordenar."
+                             ],
+    "拍一张已打开编辑器，并写下第一行代码的照片。":  [
+                                   "拍一張已開啟編輯器，並寫下第一行程式碼的照片。",
+                                   "Take a photo of your editor with the first line of code written.",
+                                   "エディターを開き、コードを一行書いた写真を撮りましょう。",
+                                   "편집기를 열고 첫 코드 줄을 쓴 사진을 찍으세요.",
+                                   "Haz una foto del editor con la primera línea de código escrita."
+                               ],
+    "拍一张能看出你已经开始「{0}」的照片。":  [
+                                 "拍一張能看出你已經開始「{0}」的照片。",
+                                 "Take a photo showing you\u0027ve started “{0}”.",
+                                 "「{0}」を始めたことがわかる写真を撮りましょう。",
+                                 "“{0}”을 시작한 것을 보여 주는 사진을 찍으세요.",
+                                 "Haz una foto que muestre que has empezado «{0}»."
+                             ],
+    "这件事":  [
+                "這件事",
+                "this task",
+                "このタスク",
+                "이 일",
+                "esta tarea"
+            ],
+    "见面礼，送给愿意开始的你":  [
+                         "見面禮，送給願意開始的你",
+                         "A welcome gift for your first step",
+                         "一歩を踏み出すあなたへ、歓迎の贈り物",
+                         "시작하려는 당신에게 환영 선물",
+                         "Un regalo de bienvenida para tu primer paso"
+                     ],
+    "开始了":  [
+                "開始了",
+                "Started",
+                "開始しました",
+                "시작했어요",
+                "Iniciada"
+            ],
+    "这次先放下":  [
+                  "這次先放下",
+                  "Let go this time",
+                  "今回は見送り",
+                  "이번엔 내려놓음",
+                  "Dejada esta vez"
+              ],
+    "遇见新朋友 · {0}":  [
+                        "遇見新朋友 · {0}",
+                        "Met a new friend · {0}",
+                        "新しい友だち · {0}",
+                        "새 친구를 만났어요 · {0}",
+                        "Nuevo amigo · {0}"
+                    ],
+    "{0}猫猫":  [
+                  "{0}貓貓",
+                  "{0} the cat",
+                  "ねこの{0}",
+                  "고양이 {0}",
+                  "El gato {0}"
+              ],
+    "安卓守护已开启":  [
+                    "安卓守護已開啟",
+                    "Android guard enabled",
+                    "Androidサポート有効",
+                    "Android 도우미 켜짐",
+                    "Protección de Android activada"
+                ],
+    "设置安卓专注守护":  [
+                     "設定安卓專注守護",
+                     "Set up Android guard",
+                     "Androidサポートを設定",
+                     "Android 집중 도우미 설정",
+                     "Configurar protección de Android"
+                 ],
+    "了解安卓专注守护":  [
+                     "了解安卓專注守護",
+                     "About Android focus guard",
+                     "Android集中サポートについて",
+                     "Android 집중 도우미 알아보기",
+                     "Sobre la protección de Android"
+                 ],
+    "无障碍权限：{0} · 守护：{1} · 已选 {2} 个 App":  [
+                                              "無障礙權限：{0} · 守護：{1} · 已選 {2} 個 App",
+                                              "Accessibility: {0} · Guard: {1} · Apps selected: {2}",
+                                              "アクセシビリティ：{0} · サポート：{1} · 選択：{2}アプリ",
+                                              "접근성: {0} · 도우미: {1} · 선택 앱: {2}",
+                                              "Accesibilidad: {0} · Protección: {1} · Apps: {2}"
+                                          ],
+    "已开启":  [
+                "已開啟",
+                "Enabled",
+                "有効",
+                "켜짐",
+                "Activada"
+            ],
+    "未开启":  [
+                "未開啟",
+                "Disabled",
+                "無効",
+                "꺼짐",
+                "Desactivada"
+            ],
+    "运行中":  [
+                "執行中",
+                "Running",
+                "動作中",
+                "실행 중",
+                "En marcha"
+            ],
+    "未运行":  [
+                "未執行",
+                "Not running",
+                "停止中",
+                "실행 안 됨",
+                "Detenida"
+            ],
+    "开启安卓专注守护":  [
+                     "開啟安卓專注守護",
+                     "Enable Android focus guard",
+                     "Android集中サポートを有効にする",
+                     "Android 집중 도우미 켜기",
+                     "Activar protección de Android"
+                 ],
+    "关闭守护（不结算任务）":  [
+                        "關閉守護（不結算任務）",
+                        "Disable guard (keep tasks unchanged)",
+                        "サポートを停止（タスクはそのまま）",
+                        "도우미 끄기 (할 일은 유지)",
+                        "Desactivar protección (sin cambiar tareas)"
+                    ],
+    "修改服务地址":  [
+                   "修改服務位址",
+                   "Change server address",
+                   "サーバーアドレスを変更",
+                   "서버 주소 변경",
+                   "Cambiar dirección del servidor"
+               ],
+    "任务到时间后，打开你选中的娱乐 App 时，小猫会提醒你先开始。回到ShutterCat，提交照片或主动接受惩罚即可处理任务。":  [
+                                                                    "任務到時間後，開啟你選中的娛樂 App 時，小貓會提醒你先開始。回到ShutterCat，提交照片或主動接受懲罰即可處理任務。",
+                                                                    "When a task is due, opening a selected entertainment app shows a reminder. Return to ShutterCat to submit a photo or choose the penalty.",
+                                                                    "時間になると、選んだ娯楽アプリを開く際にリマインダーが表示されます。ShutterCatに戻り、写真を送るかペナルティを選んでください。",
+                                                                    "할 일 시간이 되면 선택한 앱을 열 때 알림을 보여 줘요. ShutterCat로 돌아와 사진을 제출하거나 페널티를 선택하세요.",
+                                                                    "Cuando llegue la hora, al abrir una app de ocio elegida verás un recordatorio. Vuelve a ShutterCat para enviar una foto o aceptar la penalización."
+                                                                ],
+    "任务到时间后，选定的娱乐 App 会显示猫猫屏蔽页。回到ShutterCat，上传照片或接受惩罚即可处理任务。":  [
+                                                            "任務到時間後，選定的娛樂 App 會顯示貓貓封鎖頁。回到ShutterCat，上傳照片或接受懲罰即可處理任務。",
+                                                            "When a task is due, selected entertainment apps show a cat shield. Return to ShutterCat to submit a photo or accept the penalty.",
+                                                            "時間になると、選んだ娯楽アプリにねこのシールドが表示されます。ShutterCatに戻り、写真を送るかペナルティを選んでください。",
+                                                            "시간이 되면 선택한 앱에 고양이 보호 화면이 표시돼요. ShutterCat로 돌아와 사진을 제출하거나 페널티를 수락하세요.",
+                                                            "Cuando llegue la hora, las apps elegidas mostrarán una pantalla gatuna. Vuelve a ShutterCat para enviar una foto o aceptar la penalización."
+                                                        ],
+    "仅在本机识别前台应用，不读取屏幕内容、不自动点击、不上传应用列表。你可以随时关闭守护；关闭不会完成任务，也不会自动扣币。":  [
+                                                                         "僅在本機辨識前景應用，不讀取螢幕內容、不自動點擊、不上傳應用清單。你可以隨時關閉守護；關閉不會完成任務，也不會自動扣幣。",
+                                                                         "The foreground app is identified only on your device. No screen reading, automatic tapping or app-list uploads. You can disable the guard anytime without settling tasks or losing coins.",
+                                                                         "端末内で前面のアプリだけを識別します。画面の読み取り、自動タップ、アプリ一覧の送信はしません。いつでも停止でき、タスクやコインは変わりません。",
+                                                                         "기기 안에서 실행 중인 앱만 확인해요. 화면 읽기, 자동 클릭, 앱 목록 업로드는 하지 않아요. 언제든 꺼도 할 일이나 코인은 바뀌지 않아요.",
+                                                                         "Solo se identifica la app en primer plano en tu dispositivo. No se lee la pantalla, no se toca automáticamente ni se suben listas de apps. Puedes desactivarlo sin cambiar tareas ni monedas."
+                                                                     ],
+    "ShutterCat、系统应用、桌面和默认电话应用不在守护范围。后台省电或强行停止可能中断守护。断网时可在提醒页紧急关闭，任务结算仍需联网。":  [
+                                                                           "ShutterCat、系統應用、桌面和預設電話應用不在守護範圍。背景省電或強制停止可能中斷守護。斷網時可在提醒頁緊急關閉，任務結算仍需連網。",
+                                                                           "ShutterCat, system apps, the launcher and default phone app are excluded. Battery saving or force-stop may interrupt the guard. You can disable it offline; settling tasks needs a connection.",
+                                                                           "ShutterCat、システム、ホーム、電話アプリは対象外です。省電力や強制停止で中断することがあります。オフラインでも停止できますが、タスクの処理には通信が必要です。",
+                                                                           "ShutterCat, 시스템 앱, 홈 화면, 기본 전화 앱은 제외돼요. 절전이나 강제 종료로 중단될 수 있어요. 오프라인에서도 끌 수 있지만 할 일 처리는 인터넷이 필요해요.",
+                                                                           "Se excluyen ShutterCat, apps del sistema, inicio y teléfono. El ahorro de batería o cierre forzado puede interrumpirlo. Puedes desactivarlo sin conexión; resolver tareas requiere internet."
+                                                                       ],
+    "当前为网页体验版，无法申请安卓无障碍权限，也不会实际屏蔽其他 App。安装安卓客户端后可开启专注守护。":  [
+                                                                "目前為網頁體驗版，無法申請安卓無障礙權限，也不會實際封鎖其他 App。安裝安卓用戶端後可開啟專注守護。",
+                                                                "This web preview cannot request Android accessibility access or block apps. Install the Android app to enable focus guard.",
+                                                                "ウェブ版ではAndroidのアクセシビリティ許可やアプリ制限はできません。Androidアプリをインストールしてご利用ください。",
+                                                                "웹 미리보기는 Android 접근성 권한이나 앱 차단을 사용할 수 없어요. Android 앱을 설치해 주세요.",
+                                                                "La versión web no puede solicitar accesibilidad ni bloquear apps. Instala la app de Android para activar la protección."
+                                                            ],
+    "当前为网页体验版，无法申请 iOS Screen Time 权限，也不会实际屏蔽其他 App。下方仅预览屏蔽页的内容。":  [
+                                                                        "目前為網頁體驗版，無法申請 iOS 螢幕使用時間權限，也不會實際封鎖其他 App。下方僅預覽封鎖頁的內容。",
+                                                                        "This web preview cannot request iOS Screen Time access or block apps. The screen below is only a preview.",
+                                                                        "ウェブ版ではiOSスクリーンタイムの許可やアプリ制限はできません。下の画面はプレビューです。",
+                                                                        "웹 미리보기는 iOS 스크린 타임 권한이나 앱 차단을 사용할 수 없어요. 아래는 미리보기예요.",
+                                                                        "La versión web no puede solicitar Tiempo de uso de iOS ni bloquear apps. La pantalla de abajo es solo una vista previa."
+                                                                    ],
+    "ShutterCat自身不在屏蔽范围内。iOS 系统决定 Shield 的布局，最终效果需在真机上验证。":  [
+                                                         "ShutterCat本身不在封鎖範圍內。iOS 系統決定 Shield 的版面，最終效果需在實機上驗證。",
+                                                         "ShutterCat is not blocked. iOS controls the shield layout; the final result needs testing on a device.",
+                                                         "ShutterCat自体は制限しません。レイアウトはiOSが決めるため、実機での確認が必要です。",
+                                                         "ShutterCat 자체는 차단하지 않아요. 보호 화면 배치는 iOS가 정하므로 실제 기기에서 확인해야 해요.",
+                                                         "ShutterCat no se bloquea. iOS decide el diseño de la pantalla; debe comprobarse en un dispositivo real."
+                                                     ],
+    "网页仅在打开时更新到点状态；系统屏蔽需使用 iOS 客户端。":  [
+                                           "網頁僅在開啟時更新到點狀態；系統封鎖需使用 iOS 用戶端。",
+                                           "The web updates due tasks while open. App blocking requires the iOS app.",
+                                           "ウェブ版は開いている間に期限を更新します。アプリ制限にはiOSアプリが必要です。",
+                                           "웹은 열려 있을 때만 시간을 갱신해요. 앱 차단은 iOS 앱이 필요해요.",
+                                           "La web actualiza las tareas cuando está abierta. El bloqueo requiere la app de iOS."
+                                       ],
+    "网页仅在打开时更新到点状态；专注守护需安装安卓客户端并主动开启。":  [
+                                             "網頁僅在開啟時更新到點狀態；專注守護需安裝安卓用戶端並主動開啟。",
+                                             "The web updates due tasks while open. Install the Android app and enable focus guard to use reminders.",
+                                             "ウェブ版は開いている間に期限を更新します。集中サポートはAndroidアプリで有効にしてください。",
+                                             "웹은 열려 있을 때만 시간을 갱신해요. 집중 도우미는 Android 앱을 설치하고 직접 켜 주세요.",
+                                             "La web actualiza las tareas cuando está abierta. Instala la app de Android y activa la protección para usar recordatorios."
+                                         ],
+    "无法连接服务，请确认 Cloudflare Worker 已启动":  [
+                                             "無法連接服務，請確認 Cloudflare Worker 已啟動",
+                                             "Can\u0027t connect. Check that the server is running.",
+                                             "接続できません。サーバーの起動を確認してください。",
+                                             "연결할 수 없어요. 서버가 실행 중인지 확인해 주세요.",
+                                             "No se puede conectar. Comprueba que el servidor esté activo."
+                                         ],
+    "无法连接服务，请检查网络后重试":  [
+                            "無法連接服務，請檢查網路後重試",
+                            "Can\u0027t connect. Check your network and try again.",
+                            "接続できません。ネットワークを確認して再試行してください。",
+                            "연결할 수 없어요. 네트워크를 확인하고 다시 시도해 주세요.",
+                            "No se puede conectar. Comprueba tu red y vuelve a intentarlo."
+                        ],
+    "请求失败，请重试":  [
+                     "請求失敗，請重試",
+                     "Request failed. Please try again.",
+                     "リクエストに失敗しました。再試行してください。",
+                     "요청에 실패했어요. 다시 시도해 주세요.",
+                     "La solicitud falló. Inténtalo de nuevo."
+                 ],
+    "当前浏览器不能保存照片，请开启本地存储或选择云端保存":  [
+                                       "目前瀏覽器無法儲存照片，請啟用本機儲存或選擇雲端儲存",
+                                       "This browser can\u0027t save photos. Enable local storage or choose cloud storage.",
+                                       "写真を保存できません。ローカル保存を有効にするか、クラウドを選んでください。",
+                                       "브라우저에 사진을 저장할 수 없어요. 로컬 저장을 켜거나 클라우드를 선택하세요.",
+                                       "Este navegador no puede guardar fotos. Activa el almacenamiento local o elige la nube."
+                                   ],
+    "照片保存失败，请检查设备剩余空间":  [
+                             "照片儲存失敗，請檢查裝置剩餘空間",
+                             "Couldn\u0027t save the photo. Check free space on your device.",
+                             "保存できません。端末の空き容量を確認してください。",
+                             "사진을 저장하지 못했어요. 기기의 남은 공간을 확인하세요.",
+                             "No se pudo guardar la foto. Comprueba el espacio libre."
+                         ],
+    "请选择照片文件":  [
+                    "請選擇照片檔案",
+                    "Please choose an image file",
+                    "画像ファイルを選んでください",
+                    "사진 파일을 선택하세요",
+                    "Elige un archivo de imagen"
+                ],
+    "请选择 20 MB 以内的照片":  [
+                            "請選擇 20 MB 以內的照片",
+                            "Choose a photo under 20 MB",
+                            "20 MB以下の写真を選んでください",
+                            "20 MB 이하의 사진을 선택하세요",
+                            "Elige una foto de menos de 20 MB"
+                        ],
+    "无法处理这张照片":  [
+                     "無法處理這張照片",
+                     "Unable to process this photo",
+                     "この写真は処理できません",
+                     "사진을 처리할 수 없어요",
+                     "No se puede procesar esta foto"
+                 ],
+    "照片转换失败":  [
+                   "照片轉換失敗",
+                   "Photo conversion failed",
+                   "写真の変換に失敗しました",
+                   "사진 변환에 실패했어요",
+                   "Falló la conversión de la foto"
+               ],
+    "无法读取这张照片，请使用 JPG、PNG 或 WebP 格式":  [
+                                           "無法讀取這張照片，請使用 JPG、PNG 或 WebP 格式",
+                                           "Can\u0027t read this photo. Use JPG, PNG or WebP.",
+                                           "読み込めません。JPG、PNG、WebPを使ってください。",
+                                           "읽을 수 없는 사진이에요. JPG, PNG, WebP를 사용하세요.",
+                                           "No se puede leer esta foto. Usa JPG, PNG o WebP."
+                                       ],
+    "没有找到这件事":  [
+                    "沒有找到這件事",
+                    "Task not found",
+                    "タスクが見つかりません",
+                    "할 일을 찾지 못했어요",
+                    "Tarea no encontrada"
+                ],
+    "还没到开始时间":  [
+                    "還沒到開始時間",
+                    "It\u0027s not time to start yet",
+                    "まだ開始時刻ではありません",
+                    "아직 시작 시간이 아니에요",
+                    "Aún no es la hora de empezar"
+                ],
+    "这件事已经处理过了":  [
+                      "這件事已經處理過了",
+                      "This task has already been settled",
+                      "このタスクは処理済みです",
+                      "이미 처리한 할 일이에요",
+                      "Esta tarea ya se ha resuelto"
+                  ],
+    "已经集齐全部猫猫了":  [
+                      "已經集齊全部貓貓了",
+                      "You\u0027ve collected all the cats",
+                      "すべてのねこがそろいました",
+                      "모든 고양이를 모았어요",
+                      "Ya tienes todos los gatos"
+                  ],
+    "还需要 {0} 喵币，开始一件事就能获得奖励":  [
+                                   "還需要 {0} 喵幣，開始一件事就能獲得獎勵",
+                                   "You need {0} more coins. Start a task to earn a reward.",
+                                   "あと{0}コイン必要です。タスクを始めて報酬をもらおう。",
+                                   "코인이 {0}개 더 필요해요. 할 일을 시작해 보상을 받아요.",
+                                   "Necesitas {0} monedas más. Empieza una tarea para ganar una recompensa."
+                               ],
+    "请检查填写的内容和长度":  [
+                        "請檢查填寫的內容和長度",
+                        "Check the text and its length",
+                        "入力内容と長さを確認してください",
+                        "입력 내용과 길이를 확인해 주세요",
+                        "Comprueba el texto y su longitud"
+                    ],
+    "请求过大":  [
+                 "請求過大",
+                 "Request too large",
+                 "リクエストが大きすぎます",
+                 "요청이 너무 커요",
+                 "Solicitud demasiado grande"
+             ],
+    "请求格式不正确":  [
+                    "請求格式不正確",
+                    "Invalid request format",
+                    "リクエスト形式が無効です",
+                    "요청 형식이 올바르지 않아요",
+                    "Formato de solicitud no válido"
+                ],
+    "照片不存在或仅保存在设备":  [
+                         "照片不存在或僅儲存在裝置",
+                         "Photo missing or saved only on your device",
+                         "写真がないか、端末内のみの保存です",
+                         "사진이 없거나 기기에만 저장돼 있어요",
+                         "La foto no existe o solo está en el dispositivo"
+                     ],
+    "照片已删除":  [
+                  "照片已刪除",
+                  "Photo deleted",
+                  "写真を削除しました",
+                  "사진이 삭제됐어요",
+                  "Foto eliminada"
+              ],
+    "请选择未来一年内的开始时间":  [
+                          "請選擇未來一年內的開始時間",
+                          "Choose a time within the next year",
+                          "今から一年以内の時刻を選んでください",
+                          "지금부터 1년 이내의 시간을 선택하세요",
+                          "Elige una fecha dentro del próximo año"
+                      ],
+    "任务数量已达到 MVP 上限":  [
+                           "任務數量已達到 MVP 上限",
+                           "Task limit reached",
+                           "タスク数の上限に達しました",
+                           "할 일 수 한도에 도달했어요",
+                           "Se alcanzó el límite de tareas"
+                       ],
+    "常用任务最多保存 100 项":  [
+                           "常用任務最多儲存 100 項",
+                           "You can save up to 100 routines",
+                           "保存できるのは100件までです",
+                           "자주 하는 일은 100개까지 저장할 수 있어요",
+                           "Puedes guardar hasta 100 rutinas"
+                       ],
+    "请先确认接受惩罚":  [
+                     "請先確認接受懲罰",
+                     "Confirm that you accept the penalty",
+                     "ペナルティへの同意を確認してください",
+                     "페널티 수락을 먼저 확인해 주세요",
+                     "Confirma que aceptas la penalización"
+                 ],
+    "任务不存在":  [
+                  "任務不存在",
+                  "Task not found",
+                  "タスクが見つかりません",
+                  "할 일이 없어요",
+                  "Tarea no encontrada"
+              ],
+    "当前任务不能提交照片":  [
+                       "目前任務無法提交照片",
+                       "You can\u0027t submit a photo for this task right now",
+                       "今はこのタスクの写真を送れません",
+                       "지금은 이 할 일에 사진을 제출할 수 없어요",
+                       "Ahora no se puede enviar una foto para esta tarea"
+                   ],
+    "请确认照片展示了你的开始行动":  [
+                           "請確認照片展示了你的開始行動",
+                           "Confirm that the photo shows you\u0027ve started",
+                           "始めたことがわかる写真か確認してください",
+                           "사진에 시작한 모습이 담겼는지 확인하세요",
+                           "Confirma que la foto muestra que has empezado"
+                       ],
+    "照片摘要不正确":  [
+                    "照片摘要不正確",
+                    "Invalid photo checksum",
+                    "写真の検証情報が無効です",
+                    "사진 검증 정보가 올바르지 않아요",
+                    "Verificación de foto no válida"
+                ],
+    "请选择 5 MB 以内的照片":  [
+                           "請選擇 5 MB 以內的照片",
+                           "Choose a photo under 5 MB",
+                           "5 MB以下の写真を選んでください",
+                           "5 MB 이하의 사진을 선택하세요",
+                           "Elige una foto de menos de 5 MB"
+                       ],
+    "只支持有效的 JPG、PNG 和 WebP 照片":  [
+                                     "僅支援有效的 JPG、PNG 和 WebP 照片",
+                                     "Only valid JPG, PNG and WebP photos are supported",
+                                     "有効なJPG、PNG、WebP写真のみ対応しています",
+                                     "유효한 JPG, PNG, WebP 사진만 지원해요",
+                                     "Solo se admiten fotos JPG, PNG y WebP válidas"
+                                 ],
+    "照片摘要不匹配，请重新选择照片":  [
+                            "照片摘要不符，請重新選擇照片",
+                            "Photo verification failed. Choose the photo again.",
+                            "写真を検証できません。もう一度選んでください。",
+                            "사진 검증에 실패했어요. 다시 선택하세요.",
+                            "Falló la verificación. Vuelve a elegir la foto."
+                        ],
+    "请选择照片保存方式":  [
+                      "請選擇照片儲存方式",
+                      "Choose where to save the photo",
+                      "写真の保存先を選んでください",
+                      "사진 저장 방식을 선택하세요",
+                      "Elige dónde guardar la foto"
+                  ],
+    "抽取请求编号无效":  [
+                     "抽取請求編號無效",
+                     "Invalid draw request",
+                     "抽選リクエストが無効です",
+                     "뽑기 요청이 올바르지 않아요",
+                     "Solicitud de sorteo no válida"
+                 ],
+    "还没有获得这只猫猫":  [
+                      "還沒有獲得這隻貓貓",
+                      "You haven\u0027t met this cat yet",
+                      "まだこのねこを迎えていません",
+                      "아직 이 고양이를 만나지 못했어요",
+                      "Aún no tienes este gato"
+                  ],
+    "没有这个接口":  [
+                   "沒有這個介面",
+                   "This action isn\u0027t available",
+                   "この操作は利用できません",
+                   "사용할 수 없는 기능이에요",
+                   "Esta acción no está disponible"
+               ],
+    "保存失败，请稍后重试。未确认成功前请保留当前照片。":  [
+                                      "儲存失敗，請稍後重試。未確認成功前請保留目前照片。",
+                                      "Save failed. Try again later and keep this photo until success is confirmed.",
+                                      "保存に失敗しました。再試行し、成功するまで写真を残してください。",
+                                      "저장에 실패했어요. 나중에 다시 시도하고 성공할 때까지 사진을 보관하세요.",
+                                      "No se pudo guardar. Inténtalo después y conserva la foto hasta confirmar el éxito."
+                                  ],
+    "请求来源不受支持":  [
+                     "請求來源不受支援",
+                     "Request origin not allowed",
+                     "許可されていない接続元です",
+                     "허용되지 않은 요청 출처예요",
+                     "Origen de solicitud no permitido"
+                 ],
+    "选择需要守护的娱乐 App":  [
+                          "選擇需要守護的娛樂 App",
+                          "Choose entertainment apps to guard",
+                          "対象の娯楽アプリを選ぶ",
+                          "집중 도우미를 적용할 앱 선택",
+                          "Elegir apps de ocio para proteger"
+                      ],
+    "只显示可启动的非系统应用。ShutterCat、系统设置、电话和桌面不会被守护。应用列表仅保存在此设备。":  [
+                                                         "僅顯示可啟動的非系統應用。ShutterCat、系統設定、電話和桌面不會被守護。應用清單僅儲存在此裝置。",
+                                                         "Only launchable non-system apps are shown. ShutterCat, Settings, Phone and Home are excluded. The list stays on this device.",
+                                                         "起動できる非システムアプリのみ表示します。ShutterCat、設定、電話、ホームは対象外です。一覧は端末内だけに保存します。",
+                                                         "실행 가능한 일반 앱만 표시해요. ShutterCat, 설정, 전화, 홈 화면은 제외돼요. 목록은 이 기기에만 저장해요.",
+                                                         "Solo se muestran apps no pertenecientes al sistema. ShutterCat, Ajustes, Teléfono e Inicio quedan fuera. La lista se guarda solo aquí."
+                                                     ],
+    "没有找到可选择的非系统应用。可以先安装一款娱乐 App 再返回。":  [
+                                             "找不到可選擇的非系統應用。可先安裝一款娛樂 App 再返回。",
+                                             "No eligible apps found. Install an entertainment app and come back.",
+                                             "選べるアプリがありません。娯楽アプリをインストールしてから戻ってください。",
+                                             "선택 가능한 앱이 없어요. 일반 앱을 설치한 뒤 돌아와 주세요.",
+                                             "No hay apps disponibles. Instala una app de ocio y vuelve."
+                                         ],
+    "保存选择":  [
+                 "儲存選擇",
+                 "Save selection",
+                 "選択を保存",
+                 "선택 저장",
+                 "Guardar selección"
+             ],
+    "取消":  [
+               "取消",
+               "Cancel",
+               "キャンセル",
+               "취소",
+               "Cancelar"
+           ],
+    "紧急关闭守护（不结算任务）":  [
+                          "緊急關閉守護（不結算任務）",
+                          "Emergency stop (keep tasks unchanged)",
+                          "緊急停止（タスクはそのまま）",
+                          "긴급 종료 (할 일은 유지)",
+                          "Desactivar de emergencia (sin cambiar tareas)"
+                      ],
+    "待处理任务过多，无法同步守护。":  [
+                            "待處理任務過多，無法同步守護。",
+                            "Too many pending tasks to sync the guard.",
+                            "タスクが多すぎるため同期できません。",
+                            "대기 중인 할 일이 너무 많아 동기화할 수 없어요.",
+                            "Hay demasiadas tareas pendientes para sincronizar."
+                        ],
+    "任务数据格式无效。":  [
+                      "任務資料格式無效。",
+                      "Invalid task data.",
+                      "タスクデータの形式が無効です。",
+                      "할 일 데이터 형식이 잘못됐어요.",
+                      "Datos de tarea no válidos."
+                  ],
+    "任务状态无效。":  [
+                    "任務狀態無效。",
+                    "Invalid task status.",
+                    "タスクの状態が無効です。",
+                    "할 일 상태가 잘못됐어요.",
+                    "Estado de tarea no válido."
+                ],
+    "ShutterCat · 安卓版":  [
+                     "ShutterCat · 安卓版",
+                     "ShutterCat · Android",
+                     "ShutterCat · Android",
+                     "ShutterCat · Android",
+                     "ShutterCat · Android"
+                 ],
+    "填写已部署的 HTTPS 服务地址，即可打开你的ShutterCat。切换服务会关闭守护并清除本机守护计划。":  [
+                                                           "填寫已部署的 HTTPS 服務位址，即可開啟ShutterCat。切換服務會關閉守護並清除本機守護計畫。",
+                                                           "Enter your HTTPS server address to open ShutterCat. Changing servers disables the guard and clears its local schedule.",
+                                                           "HTTPSサーバーのアドレスを入力してください。変更するとサポートが停止し、端末内の予定が消去されます。",
+                                                           "HTTPS 서버 주소를 입력하세요. 서버를 바꾸면 도우미가 꺼지고 기기의 도우미 일정이 지워져요.",
+                                                           "Introduce la dirección HTTPS del servidor. Cambiarlo desactiva la protección y borra su horario local."
+                                                       ],
+    "打开ShutterCat":  [
+                 "開啟ShutterCat",
+                 "Open ShutterCat",
+                 "ShutterCatを開く",
+                 "ShutterCat 열기",
+                 "Abrir ShutterCat"
+             ],
+    "返回":  [
+               "返回",
+               "Back",
+               "戻る",
+               "뒤로",
+               "Volver"
+           ],
+    "小猫正在连接服务…":  [
+                      "小貓正在連接服務…",
+                      "Connecting to your server…",
+                      "サーバーに接続中…",
+                      "서버에 연결 중…",
+                      "Conectando al servidor…"
+                  ],
+    "暂时无法打开ShutterCat，请检查网络和服务地址。断网时仍可关闭守护。":  [
+                                           "暫時無法開啟ShutterCat，請檢查網路和服務位址。離線時仍可關閉守護。",
+                                           "Can\u0027t open ShutterCat. Check your network and server address. You can still disable the guard offline.",
+                                           "開けません。ネットワークとアドレスを確認してください。オフラインでもサポートは停止できます。",
+                                           "ShutterCat를 열 수 없어요. 네트워크와 서버 주소를 확인하세요. 오프라인에서도 도우미를 끌 수 있어요.",
+                                           "No se puede abrir ShutterCat. Comprueba la red y la dirección. Puedes desactivar la protección sin conexión."
+                                       ],
+    "关闭专注守护":  [
+                   "關閉專注守護",
+                   "Disable focus guard",
+                   "集中サポートを停止",
+                   "집중 도우미 끄기",
+                   "Desactivar protección"
+               ],
+    "守护已关闭":  [
+                  "守護已關閉",
+                  "Guard disabled",
+                  "停止しました",
+                  "도우미가 꺼졌어요",
+                  "Protección desactivada"
+              ],
+    "请先在应用商店更新 Android System WebView 或 Chrome，再重新打开ShutterCat。":  [
+                                                               "請先在應用程式商店更新 Android System WebView 或 Chrome，再重新開啟ShutterCat。",
+                                                               "Update Android System WebView or Chrome in your app store, then reopen ShutterCat.",
+                                                               "ストアでAndroid System WebViewまたはChromeを更新してから開き直してください。",
+                                                               "앱 스토어에서 Android System WebView 또는 Chrome을 업데이트한 뒤 다시 여세요.",
+                                                               "Actualiza Android System WebView o Chrome en la tienda y vuelve a abrir ShutterCat."
+                                                           ],
+    "任务数据过大，无法同步守护。":  [
+                           "任務資料過大，無法同步守護。",
+                           "Task data is too large to sync.",
+                           "データが大きすぎるため同期できません。",
+                           "할 일 데이터가 너무 커서 동기화할 수 없어요.",
+                           "Los datos son demasiado grandes para sincronizar."
+                       ],
+    "确认":  [
+               "確認",
+               "Confirm",
+               "確認",
+               "확인",
+               "Confirmar"
+           ],
+    "无法打开系统相册，请安装可选择照片的应用。":  [
+                                  "無法開啟系統相簿，請安裝可選擇照片的應用。",
+                                  "Can\u0027t open photos. Install an app that can select images.",
+                                  "写真を開けません。画像を選択できるアプリを用意してください。",
+                                  "사진 앨범을 열 수 없어요. 사진을 선택할 수 있는 앱을 설치하세요.",
+                                  "No se pueden abrir las fotos. Instala una app que permita elegir imágenes."
+                              ],
+    "ShutterCat凭证":  [
+                 "ShutterCat憑證",
+                 "ShutterCat proof",
+                 "ShutterCatの証拠写真",
+                 "ShutterCat 인증",
+                 "Prueba de ShutterCat"
+             ],
+    "无法打开系统相机，请使用「从相册选择」。":  [
+                                 "無法開啟系統相機，請使用「從相簿選擇」。",
+                                 "Can\u0027t open the camera. Choose a photo from your gallery.",
+                                 "カメラを開けません。写真から選んでください。",
+                                 "카메라를 열 수 없어요. 앨범에서 사진을 선택하세요.",
+                                 "No se puede abrir la cámara. Elige una foto de la galería."
+                             ],
+    "不支持的原生操作。":  [
+                      "不支援的原生操作。",
+                      "Unsupported app action.",
+                      "対応していない操作です。",
+                      "지원하지 않는 앱 기능이에요.",
+                      "Acción no admitida."
+                  ],
+    "守护操作失败：":  [
+                    "守護操作失敗：",
+                    "Guard action failed: ",
+                    "操作に失敗しました：",
+                    "도우미 작업 실패: ",
+                    "Falló la protección: "
+                ],
+    "请重试":  [
+                "請重試",
+                "Please try again",
+                "再試行してください",
+                "다시 시도해 주세요",
+                "Inténtalo de nuevo"
+            ],
+    "暂不开启":  [
+                 "暫不開啟",
+                 "Not now",
+                 "今はしない",
+                 "지금은 안 함",
+                 "Ahora no"
+             ],
+    "同意并继续":  [
+                  "同意並繼續",
+                  "Agree and continue",
+                  "同意して続ける",
+                  "동의하고 계속",
+                  "Aceptar y continuar"
+              ],
+    "无法打开系统设置，请手动进入无障碍设置。":  [
+                                 "無法開啟系統設定，請手動進入無障礙設定。",
+                                 "Can\u0027t open Settings. Open Accessibility settings manually.",
+                                 "設定を開けません。手動でアクセシビリティ設定を開いてください。",
+                                 "설정을 열 수 없어요. 접근성 설정을 직접 열어 주세요.",
+                                 "No se pueden abrir los ajustes. Abre Accesibilidad manualmente."
+                             ],
+    "请输入完整的 HTTPS 服务根地址，不包含路径、账号、参数或片段。调试版也支持本机回环 HTTP 地址。":  [
+                                                                  "請輸入完整的 HTTPS 服務根位址，不含路徑、帳號、參數或片段。除錯版也支援本機回環 HTTP 位址。",
+                                                                  "Enter a complete HTTPS server root address, without paths, credentials, parameters or fragments. Debug builds also allow local loopback HTTP.",
+                                                                  "パス、アカウント、パラメーター、フラグメントのないHTTPSルートアドレスを入力してください。デバッグ版はローカルHTTPにも対応しています。",
+                                                                  "경로, 계정, 매개변수, 프래그먼트 없이 전체 HTTPS 서버 주소를 입력하세요. 디버그 버전은 로컬 HTTP도 지원해요.",
+                                                                  "Introduce una dirección raíz HTTPS completa, sin rutas, credenciales, parámetros ni fragmentos. La versión de depuración también admite HTTP local."
+                                                              ],
+    "请先授权屏幕使用时间":  [
+                       "請先授權螢幕使用時間",
+                       "Authorize Screen Time first",
+                       "先にスクリーンタイムを許可してください",
+                       "먼저 스크린 타임을 승인하세요",
+                       "Autoriza primero Tiempo de uso"
+                   ],
+    "选择娱乐 App":  [
+                     "選擇娛樂 App",
+                     "Choose entertainment apps",
+                     "娯楽アプリを選択",
+                     "여가 앱 선택",
+                     "Elegir apps de ocio"
+                 ],
+    "请选择具体娱乐 App，勿选择ShutterCat自身；MVP 不屏蔽整类 App。":  [
+                                               "請選擇個別娛樂 App，勿選擇ShutterCat本身；MVP 不封鎖整類 App。",
+                                               "Choose individual apps, excluding ShutterCat. Whole categories are not blocked.",
+                                               "個別のアプリを選び、ShutterCatは除いてください。カテゴリ全体は制限しません。",
+                                               "ShutterCat를 제외한 개별 앱을 선택하세요. 전체 카테고리는 차단하지 않아요.",
+                                               "Elige apps individuales, sin incluir ShutterCat. No se bloquean categorías completas."
+                                           ],
+    "完成":  [
+               "完成",
+               "Done",
+               "完了",
+               "완료",
+               "Listo"
+           ],
+    "iOS 最多支持 20 个待开始计划，请减少未来任务后重试。":  [
+                                           "iOS 最多支援 20 個待開始計畫，請減少未來任務後重試。",
+                                           "iOS supports up to 20 upcoming plans. Reduce future tasks and try again.",
+                                           "iOSは今後の予定を20件まで設定できます。予定を減らして再試行してください。",
+                                           "iOS는 예정된 계획을 20개까지 지원해요. 미래 할 일을 줄여 주세요.",
+                                           "iOS admite hasta 20 planes próximos. Reduce las tareas futuras y vuelve a intentarlo."
+                                       ],
+    "我知道了":  [
+                 "我知道了",
+                 "Got it",
+                 "わかりました",
+                 "알겠어요",
+                 "Entendido"
+             ],
+    "ShutterCat专注守护":  [
+                   "ShutterCat專注守護",
+                   "ShutterCat Focus Guard",
+                   "ShutterCat集中サポート",
+                   "ShutterCat 집중 도우미",
+                   "Protección de ShutterCat"
+               ],
+    "拍摄任务开始凭证，记录你迈出的第一步。":  [
+                                "拍攝任務開始憑證，記錄你邁出的第一步。",
+                                "Take a task photo to record your first step.",
+                                "最初の一歩を記録するために写真を撮影します。",
+                                "첫걸음을 기록할 인증 사진을 촬영해요.",
+                                "Haz una foto para registrar tu primer paso."
+                            ],
+    "选择一张照片作为任务开始凭证。":  [
+                            "選擇一張照片作為任務開始憑證。",
+                            "Choose a photo as proof that you\u0027ve started.",
+                            "始めた証拠として写真を選択します。",
+                            "시작을 인증할 사진을 선택해요.",
+                            "Elige una foto como prueba de que has empezado."
+                        ],
+    "小猫正在等你迈出第一步。\n回到ShutterCat，提交开始凭证或主动接受惩罚。\n多个任务到期时，需要逐项处理。":  [
+                                                               "小貓正在等你邁出第一步。\n回到ShutterCat，提交開始憑證或主動接受懲罰。\n多個任務到期時，需要逐項處理。",
+                                                               "Your cat is waiting for your first step.\nReturn to ShutterCat to submit a photo or choose the penalty.\nIf several tasks are due, handle each one.",
+                                                               "ねこが最初の一歩を待っています。\nShutterCatに戻り、写真を送るかペナルティを選んでください。\n期限を迎えたタスクは一つずつ処理してください。",
+                                                               "고양이가 첫걸음을 기다려요.\nShutterCat로 돌아와 인증 사진을 제출하거나 페널티를 선택하세요.\n시간이 된 할 일이 여러 개면 하나씩 처리해 주세요.",
+                                                               "Tu gato espera tu primer paso.\nVuelve a ShutterCat para enviar una foto o aceptar la penalización.\nSi hay varias tareas pendientes, resuelve cada una."
+                                                           ],
+    "小猫正在等你迈出第一步。\n请手动回到ShutterCat，上传任务照片，\n或选择接受这次不完成的惩罚。":  [
+                                                          "小貓正在等你邁出第一步。\n請手動回到ShutterCat，上傳任務照片，\n或選擇接受這次未完成的懲罰。",
+                                                          "Your cat is waiting for your first step.\nOpen ShutterCat and submit a task photo,\nor choose to accept the penalty.",
+                                                          "ねこが最初の一歩を待っています。\nShutterCatを開いて写真を送るか、\n今回はペナルティを受け入れてください。",
+                                                          "고양이가 첫걸음을 기다려요.\nShutterCat로 돌아와 사진을 제출하거나,\n이번에는 페널티를 수락하세요.",
+                                                          "Tu gato espera tu primer paso.\nAbre ShutterCat y envía una foto,\no elige aceptar la penalización."
+                                                      ],
+    "ShutterCat需要你主动开启无障碍服务，在约定任务到期后为选中的 App 显示提醒。\n\n仅在本机使用前台 App 的包名，不读取屏幕内容，不自动点击，不上传应用列表。\n\n你可以随时在ShutterCat、提醒页或系统设置中关闭。关闭守护不等于完成任务，也不会自动扣喵币。":  [
+                                                                                                                                           "ShutterCat需要你主動開啟無障礙服務，在約定任務到期後為選中的 App 顯示提醒。\n\n僅在本機使用前景 App 的套件名稱，不讀取螢幕內容，不自動點擊，不上傳應用清單。\n\n你可隨時在ShutterCat、提醒頁或系統設定中關閉。關閉守護不等於完成任務，也不會自動扣喵幣。",
+                                                                                                                                           "ShutterCat asks you to enable its accessibility service to show reminders over selected apps when a task is due.\n\nOnly the foreground app\u0027s package name is used locally. No screen reading, automatic tapping or app-list uploads.\n\nDisable it anytime in ShutterCat, the reminder or system settings. Disabling does not complete tasks or deduct coins.",
+                                                                                                                                           "期限が来たときに選択したアプリへリマインダーを表示するには、アクセシビリティサービスを自分で有効にする必要があります。\n\n端末内で前面アプリのパッケージ名だけを使用します。画面読み取り、自動タップ、アプリ一覧の送信はしません。\n\nShutterCat、リマインダー、システム設定からいつでも停止できます。停止してもタスク完了やコイン減額はされません。",
+                                                                                                                                           "할 일 시간이 되면 선택한 앱에 알림을 보여 주기 위해 접근성 서비스를 직접 켜야 해요.\n\n현재 앱의 패키지 이름만 기기 안에서 사용해요. 화면을 읽거나 자동 클릭하거나 앱 목록을 업로드하지 않아요.\n\nShutterCat, 알림 화면, 시스템 설정에서 언제든 끌 수 있어요. 꺼도 할 일이 완료되거나 코인이 차감되지 않아요.",
+                                                                                                                                           "ShutterCat te pide activar su servicio de accesibilidad para mostrar recordatorios sobre las apps elegidas cuando llegue la hora.\n\nSolo usa localmente el nombre de paquete de la app en primer plano. No lee la pantalla, toca automáticamente ni sube listas de apps.\n\nPuedes desactivarlo en ShutterCat, el recordatorio o los ajustes. Desactivarlo no completa tareas ni descuenta monedas."
+                                                                                                                                       ],
+    "本机调试：USB 连接后执行 adb reverse tcp:8787 tcp:8787，再填写 http://127.0.0.1:8787。模拟器也可使用 http://10.0.2.2:8787。":  [
+                                                                                                                 "本機除錯：USB 連接後執行 adb reverse tcp:8787 tcp:8787，再填寫 http://127.0.0.1:8787。模擬器也可使用 http://10.0.2.2:8787。",
+                                                                                                                 "Local testing: connect by USB, run adb reverse tcp:8787 tcp:8787, then enter http://127.0.0.1:8787. Emulators can also use http://10.0.2.2:8787.",
+                                                                                                                 "ローカルテスト：USB接続後、adb reverse tcp:8787 tcp:8787を実行し、http://127.0.0.1:8787を入力。エミュレーターではhttp://10.0.2.2:8787も使えます。",
+                                                                                                                 "로컬 테스트: USB 연결 후 adb reverse tcp:8787 tcp:8787 실행, http://127.0.0.1:8787 입력. 에뮬레이터는 http://10.0.2.2:8787도 지원해요.",
+                                                                                                                 "Prueba local: conecta por USB, ejecuta adb reverse tcp:8787 tcp:8787 e introduce http://127.0.0.1:8787. En emuladores también puedes usar http://10.0.2.2:8787."
+                                                                                                             ],
+    "由你主动开启。在约定任务到期后，对你选择的娱乐应用显示提醒页。仅在本机使用前台应用包名，不读取屏幕文字、不执行自动点击、不上传应用列表。可随时在提醒页或ShutterCat中关闭守护，或在系统设置中停用本服务。":  [
+                                                                                                              "由你主動開啟。在約定任務到期後，對你選擇的娛樂應用顯示提醒頁。僅在本機使用前景應用套件名稱，不讀取螢幕文字、不執行自動點擊、不上傳應用清單。可隨時在提醒頁、ShutterCat或系統設定中停用。",
+                                                                                                              "Enabled only by you. Shows reminders over selected entertainment apps when tasks are due. Uses foreground app package names only on this device; no screen reading, automatic tapping or app-list uploads. Disable anytime from the reminder, ShutterCat or system settings.",
+                                                                                                              "自分で有効にするサービスです。期限になると選んだ娯楽アプリにリマインダーを表示します。端末内で前面アプリ名のみ使用し、画面読み取り、自動タップ、アプリ一覧送信はしません。リマインダー、ShutterCat、設定でいつでも停止できます。",
+                                                                                                              "직접 켜는 서비스예요. 시간이 되면 선택한 앱에 알림을 보여 줘요. 기기 안에서 앱 패키지 이름만 사용하며 화면 읽기, 자동 클릭, 앱 목록 업로드는 하지 않아요. 알림 화면, ShutterCat, 설정에서 언제든 끌 수 있어요.",
+                                                                                                              "Solo tú lo activas. Muestra recordatorios en las apps elegidas cuando llega la hora. Usa nombres de paquete solo en este dispositivo, sin leer pantallas, tocar automáticamente ni subir listas de apps. Desactívalo desde el recordatorio, ShutterCat o los ajustes."
+                                                                                                          ]
+}

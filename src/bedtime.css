@@ -1,0 +1,13 @@
+.template-card.bedtime-template { background: #e7e9fa; border: 1px solid #c5c9e9; color: #353b66; text-align: left; cursor: pointer; }
+.bedtime-template:hover { background: #dce0f7; }
+.bedtime-moon { display: block; font-size: 38px; color: #575e97; line-height: 1; margin-bottom: 20px; }
+.quick-titles .bedtime-quick { background: #e7e9fa; border: 1px solid #aab2dc; color: #353b66; }
+.bedtime-heading { text-align: center; margin-bottom: 24px; }
+.bedtime-heading > span { color: #575e97; font-size: 42px; }
+.bedtime-heading h3 { font-size: 24px; margin: 8px 0; }
+.bedtime-form p { line-height: 1.7; }
+.bedtime-submit { background: #575e97; }
+.bedtime-detail { text-align: center; }
+.bedtime-detail > .cat-art { width: 170px; max-height: 200px; object-fit: contain; }
+.bedtime-detail .detail-rows { text-align: left; }
+.status-label.sleeping { background: #e7e9fa; color: #353b66; }

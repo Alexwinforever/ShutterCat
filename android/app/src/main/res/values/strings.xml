@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShutterCat</string>
+    <string name="service_name">ShutterCat 专注守护</string>
+    <string name="service_description">由你主动开启。在约定任务到期后，对你选择的娱乐应用显示提醒页。仅在本机使用前台应用包名，不读取屏幕文字、不执行自动点击、不上传应用列表。可随时在提醒页或 ShutterCat 中关闭守护，或在系统设置中停用本服务。</string>
+</resources>

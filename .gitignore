@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.wrangler/
+.dev.vars
+.env*
+test-results/
+playwright-report/
+ios/ShutterCat.xcodeproj/
+ios/*.xcworkspace/
+.DS_Store
+
+android/.gradle/
+android/.gradle-user-home/
+android/**/build/
+android/local.properties
+*.jks
+*.keystore

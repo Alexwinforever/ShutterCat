@@ -1,0 +1,48 @@
+/* Language settings and space for longer translations. */
+.language-settings > p { color: var(--muted); font-size: 14px; line-height: 1.7; }
+.language-options { border: 0; margin: 18px 0 0; padding: 0; display: grid; gap: 8px; }
+.language-options legend { font-weight: 600; margin-bottom: 12px; }
+.language-option { display: flex; gap: 14px; align-items: center; min-height: 52px; padding: 12px 16px; border: 1px solid var(--line, #dfe4d4); border-radius: 12px; cursor: pointer; }
+.language-option:has(input:checked) { background: #e6eddc; border-color: #789065; }
+.language-option input { accent-color: #557345; width: 18px; height: 18px; flex-shrink: 0; }
+.language-option span { flex: 1; }
+.settings-button { flex-shrink: 0; min-width: 44px; min-height: 44px; }
+.topbar-actions { min-width: 0; }
+.sidebar .brand > span:last-child { min-width: 0; font-size: 22px; }
+.nav-item span, .sidebar-bottom span { min-width: 0; overflow-wrap: anywhere; }
+html:not(:lang(zh)) .page-heading h1, html:not(:lang(zh)) .hero-copy h2 { letter-spacing: 0; }
+html:lang(en) .title-dot, html:lang(es) .title-dot { font-size: 0; }
+html:lang(en) .title-dot::after, html:lang(es) .title-dot::after { content: '.'; font-size: 1rem; }
+.page-heading > div, .section-top h2, .week-controls, .task-info, .next-link span, .collection-copy { min-width: 0; }
+.primary, .secondary, .hero-link, .subtle-button, .next-link, .mobile-nav button { overflow-wrap: anywhere; }
+.hero-copy h2, .collection-copy h2 { overflow-wrap: anywhere; }
+@media (max-width: 1000px) { .local-date { display: none; } }
+@media (max-width: 680px) {
+  .breadcrumb strong::after { content: none; }
+  .breadcrumb strong { font-size: 0; }
+  .breadcrumb strong::before { content: attr(data-brand); font-size: 17px; letter-spacing: 0; }
+  .breadcrumb { flex-shrink: 0; gap: 6px; }
+  .topbar { gap: 8px; padding-inline: 16px; }
+  .topbar-actions { gap: 6px; }
+  .topbar .coin-pill { gap: 4px; padding: 7px 8px; }
+  .topbar .coin-pill > span, .topbar .avatar { display: none; }
+  .page-heading { align-items: flex-start; flex-wrap: wrap; }
+  .page-heading > div { flex: 1 1 210px; }
+  .page-heading > .primary, .page-heading > .secondary { white-space: normal; }
+  .section-top { gap: 8px; flex-wrap: wrap; }
+  .week-panel .section-top h2 > span { display: none; }
+  .day > span:first-child { font-size: 9px; }
+  .mobile-nav { padding-inline: 6px; }
+  .mobile-nav button { padding-inline: 8px; flex: 1; min-width: 0; text-align: center; }
+  .companion-panel .mini-badge { display: none; }
+  .stat-row span { overflow-wrap: anywhere; }
+  .hero-panel { min-height: 260px; }
+  .hero-copy h2 { font-size: 20px; }
+  .hero-link, .collection-copy > .primary { white-space: normal; }
+  .cat-caption { max-width: 100%; text-align: center; }
+  .task-terms, .photo-actions { flex-wrap: wrap; }
+  .photo-actions label { flex: 1 1 120px; }
+  .form-row > div { min-width: 0; }
+  .field-label.split { flex-wrap: wrap; gap: 8px; }
+  .modal .language-option input { width: 18px; padding: 0; }
+}
